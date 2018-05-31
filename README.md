@@ -110,7 +110,7 @@ Check out my [Website](http://lu-vuong-le.me) and [Blog](https://blog.lu-vuong-l
 
 * [Dev Icons](http://konpa.github.io/devicon/)
 
-#### Back End 
+#### Back End
 
 ---
 
@@ -161,6 +161,15 @@ Check out my [Website](http://lu-vuong-le.me) and [Blog](https://blog.lu-vuong-l
 * [Udemy Tech](https://www.youtube.com/channel/UCU6e4MJtvlcX5DBLP1cq8hQ)
 
 * [whatsdev](https://www.youtube.com/channel/UC0tRdbXVDbhaRvZPKsRgmxg)
+
+* [KevinPowell](https://www.youtube.com/user/KepowOb): Weekly Web Development & Design (Tips | Tricks | Tutorials)
+
+##### Graphic Design Channels
+
+* [DesignCourse](https://www.youtube.com/user/DesignCourse): Tutorials using Adobe XD, Photoshop and others.
+
+
+##### Coding Talks
 
 * [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
 
