@@ -42,6 +42,7 @@ Check out my [Website](http://lu-vuong-le.me) and [Blog](https://blog.lu-vuong-l
 
 * [Google Fonts](https://fonts.google.com/): Wide range of usable fonts from google
 
+
 ##### CSS Resources
 
 * [CSS Icons](https://cssicon.space/#/animate): An interesting site that shows how to utilise CSS to create and animate icons using psuedo elements.
@@ -133,6 +134,10 @@ Check out my [Website](http://lu-vuong-le.me) and [Blog](https://blog.lu-vuong-l
 
 * [Creative Portfolios](http://www.creative-portfolios.com/): A curated list of creative portfolios
 
+* [Adobe XD](https://www.adobe.com/au/products/xd.html): Adobe XD for UI Designs, free version available
+
+* [Photoshop](https://www.adobe.com/au/products/photoshop.html): Edit images, create UI Designs
+
 #### Youtube Channels
 
 ---
@@ -157,6 +162,8 @@ Check out my [Website](http://lu-vuong-le.me) and [Blog](https://blog.lu-vuong-l
 
 * [whatsdev](https://www.youtube.com/channel/UC0tRdbXVDbhaRvZPKsRgmxg)
 
+* [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
+
 #### Interesting Reads
 
 ---
@@ -177,3 +184,7 @@ Check out my [Website](http://lu-vuong-le.me) and [Blog](https://blog.lu-vuong-l
 ---
 
 * [Awwapp](https://awwapp.com/): Collaborative whiteboard
+
+* [w3schools](https://www.w3schools.com/html/html_scripts.asp): Online learning resource for HTML, CSS, JS
+
+* [CodeAcademy](https://www.codecademy.com/): Learn different languages, responsive design, frameworks and much more online.
