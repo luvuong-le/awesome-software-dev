@@ -67,6 +67,8 @@ Check out my [Website](http://lu-vuong-le.me) and [Blog](https://blog.lu-vuong-l
 
 * [Socket IO](https://socket.io/): Real Time Chat Engine
 
+* [Hammer JS](https://hammerjs.github.io/): Add Touch Gestures
+
 * [Typed.js](https://github.com/mattboldt/typed.js/): Typing Animation Library
 
 * [Swiper](http://idangero.us/swiper/demos/): Javascript Slider
@@ -106,9 +108,11 @@ Check out my [Website](http://lu-vuong-le.me) and [Blog](https://blog.lu-vuong-l
 
 * [IcoMoon Icons](https://icomoon.io/)
 
-* [IonIocns](http://ionicons.com/)
+* [IonIcons](http://ionicons.com/)
 
 * [Dev Icons](http://konpa.github.io/devicon/)
+
+* [Icons8](https://icons8.com/): Free Flat Icons
 
 #### Back End
 
