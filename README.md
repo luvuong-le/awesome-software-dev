@@ -57,6 +57,8 @@ Check out my [Website](http://lu-vuong-le.me) and [Blog](https://blog.lu-vuong-l
 
 * [30+ CSS Selectors](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048): Good selectors and practices to use
 
+* [Clippy]([https://bennettfeely.com/clippy/]): CSS Clip Path Online Tool, Create basic or complex shapes and then embed them in your CSS!
+
 ##### Javascript Resources
 
 * [Annyang](https://github.com/TalAter/annyang): Speech recognition JS Library
@@ -142,6 +144,10 @@ Check out my [Website](http://lu-vuong-le.me) and [Blog](https://blog.lu-vuong-l
 
 * [Photoshop](https://www.adobe.com/au/products/photoshop.html): Edit images, create UI Designs
 
+* [Collect UI](http://collectui.com/): Collection of User Interface Designs
+
+* [UI Movement](https://uimovement.com/): More UI design inspirations
+
 #### Youtube Channels
 
 ---
@@ -201,3 +207,5 @@ Check out my [Website](http://lu-vuong-le.me) and [Blog](https://blog.lu-vuong-l
 * [w3schools](https://www.w3schools.com/html/html_scripts.asp): Online learning resource for HTML, CSS, JS
 
 * [CodeAcademy](https://www.codecademy.com/): Learn different languages, responsive design, frameworks and much more online.
+
+* [Codepen](https://codepen.io/): Front-End Development Playground and social environment to share works. 
