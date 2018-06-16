@@ -57,7 +57,7 @@ Check out my [Website](http://lu-vuong-le.me) and [Blog](https://blog.lu-vuong-l
 
 * [30+ CSS Selectors](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048): Good selectors and practices to use
 
-* [Clippy]([https://bennettfeely.com/clippy/]): CSS Clip Path Online Tool, Create basic or complex shapes and then embed them in your CSS!
+* [Clippy](https://bennettfeely.com/clippy/): CSS Clip Path Online Tool, Create basic or complex shapes and then embed them in your CSS!
 
 ##### Javascript Resources
 
