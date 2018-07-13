@@ -128,7 +128,7 @@ Check out my [Website](http://lu-vuong-le.me) and [Blog](https://blog.lu-vuong-l
 
 * [World Vector Logos](https://worldvectorlogo.com/): Free SVG Vector Logos
 
-#### Back End
+#### Back End Resources
 
 ---
 
