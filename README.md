@@ -59,6 +59,14 @@ Check out my [Website](http://lu-vuong-le.me) and [Blog](https://blog.lu-vuong-l
 
 * [Clippy](https://bennettfeely.com/clippy/): CSS Clip Path Online Tool, Create basic or complex shapes and then embed them in your CSS!
 
+* [Responsive Grid System](http://www.responsivegridsystem.com): Responsive Grid System Generator
+
+* [CSS Grid Interactive](http://cssgr.id/): Interactive CSS Grid tool and code generator
+
+* [Animista](http://animista.net/): CSS Animation Tool
+
+* [Keyframes App](https://keyframes.app/): Create CSS animations easily. Has Chrome Extension or Web Application use
+
 ##### Javascript Resources
 
 * [Annyang](https://github.com/TalAter/annyang): Speech recognition JS Library
@@ -116,6 +124,8 @@ Check out my [Website](http://lu-vuong-le.me) and [Blog](https://blog.lu-vuong-l
 
 * [Icons8](https://icons8.com/): Free Flat Icons
 
+* [Material Design Icons](https://material.io/tools/icons/)
+
 #### Back End
 
 ---
@@ -148,31 +158,45 @@ Check out my [Website](http://lu-vuong-le.me) and [Blog](https://blog.lu-vuong-l
 
 * [UI Movement](https://uimovement.com/): More UI design inspirations
 
+* [Figma](https://www.figma.com/): Collaborative Design tool with prototyping
+
+* [Sketch](https://www.sketchapp.com/): Design tool exclusive to MacOS
+
+* [Gravit Designer](https://www.designer.io/): Cross Platform Design Tool
+
+* [World Vector Logos](https://worldvectorlogo.com/): Free SVG Vector Logos
+
+* [Material Icons](https://material.io/tools/icons/?style=baseline): Free SVG Material Icons
+
 #### Youtube Channels
 
 ---
 
-* [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
+* [Traversy Media](https://www.youtube.com/user/TechGuyWeb): Web Development & Programming Tutorials
 
-* [dcode](https://www.youtube.com/channel/UCjX0FtIZBBVD3YoCcxnDC4g)
+* [dcode](https://www.youtube.com/channel/UCjX0FtIZBBVD3YoCcxnDC4g): Javascript Tutorials and More
 
-* [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
+* [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w): Online Education
 
-* [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+* [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q): Advanced Javascript Concepts and Tutorials
 
-* [LearnWebCode](https://www.youtube.com/channel/UCHRp19HU7Y2LwfI0Ai6WAGQ)
+* [LearnWebCode](https://www.youtube.com/channel/UCHRp19HU7Y2LwfI0Ai6WAGQ): Learn HTML, CSS, JQuery and Wordpress development
 
-* [Lets Build That App](https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA)
+* [Lets Build That App](https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA): Swift Tutorials | Node JS and App Reviews
 
-* [mmtuts](https://www.youtube.com/channel/UCzyuZJ8zZ-Lhfnz41DG5qLw)
+* [mmtuts](https://www.youtube.com/channel/UCzyuZJ8zZ-Lhfnz41DG5qLw): Multimedia | Web Design / Development Tutorials
 
-* [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+* [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Sharpen Your Web Skills
 
-* [Udemy Tech](https://www.youtube.com/channel/UCU6e4MJtvlcX5DBLP1cq8hQ)
+* [Udemy Tech](https://www.youtube.com/channel/UCU6e4MJtvlcX5DBLP1cq8hQ): Programming Tutorials / Courses
 
-* [whatsdev](https://www.youtube.com/channel/UC0tRdbXVDbhaRvZPKsRgmxg)
+* [whatsdev](https://www.youtube.com/channel/UC0tRdbXVDbhaRvZPKsRgmxg): Wide range of programming tutorials
 
 * [KevinPowell](https://www.youtube.com/user/KepowOb): Weekly Web Development & Design (Tips | Tricks | Tutorials)
+
+* [Layout Land](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag): Amazing CSS Knowledge
+
+* [Program With Erik](https://www.youtube.com/channel/UCshZ3rdoCLjDYuTR_RBubzw): Programming Tutorials with Frameworks
 
 ##### Graphic Design Channels
 
@@ -208,4 +232,6 @@ Check out my [Website](http://lu-vuong-le.me) and [Blog](https://blog.lu-vuong-l
 
 * [CodeAcademy](https://www.codecademy.com/): Learn different languages, responsive design, frameworks and much more online.
 
-* [Codepen](https://codepen.io/): Front-End Development Playground and social environment to share works. 
+* [Codepen](https://codepen.io/): Front-End Development Playground and social environment to share works.
+
+* [ngrok](https://ngrok.com/): Public URLs for your localhost. Realtime Web UI for viewing HTTP traffic
