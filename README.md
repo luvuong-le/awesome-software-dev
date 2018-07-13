@@ -124,7 +124,9 @@ Check out my [Website](http://lu-vuong-le.me) and [Blog](https://blog.lu-vuong-l
 
 * [Icons8](https://icons8.com/): Free Flat Icons
 
-* [Material Design Icons](https://material.io/tools/icons/)
+* [Material Design Icons](https://material.io/tools/icons/): Free SVG Material Icons
+
+* [World Vector Logos](https://worldvectorlogo.com/): Free SVG Vector Logos
 
 #### Back End
 
@@ -163,10 +165,6 @@ Check out my [Website](http://lu-vuong-le.me) and [Blog](https://blog.lu-vuong-l
 * [Sketch](https://www.sketchapp.com/): Design tool exclusive to MacOS
 
 * [Gravit Designer](https://www.designer.io/): Cross Platform Design Tool
-
-* [World Vector Logos](https://worldvectorlogo.com/): Free SVG Vector Logos
-
-* [Material Icons](https://material.io/tools/icons/?style=baseline): Free SVG Material Icons
 
 #### Youtube Channels
 
