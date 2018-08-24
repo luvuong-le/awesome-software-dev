@@ -4,7 +4,7 @@
 
 > **_CURATED LIST OF BOTH FRONT-END, BACK-END AND DESIGN RESOURCES_**
 
-Check out my [Website](http://lu-vuong-le.me) and [Blog](https://blog.lu-vuong-le.me/)
+Check out my [Website](http://lu-vuong-le.me) and [Blog](https://medium.com/journey-with-code)
 
 #### Contents
 
@@ -24,7 +24,7 @@ Check out my [Website](http://lu-vuong-le.me) and [Blog](https://blog.lu-vuong-l
 
 ---
 
--   [Visual Studio Code](https://code.visualstudio.com/): Lightweight but powerful code editor.
+-   [Visual Studio Code](https://code.visualstudio.com/): Lightweight but powerful code editor
 
 -   [Brackets](http://brackets.io): Open source text editor
 
@@ -214,7 +214,7 @@ Check out my [Website](http://lu-vuong-le.me) and [Blog](https://blog.lu-vuong-l
 
 ##### Graphic Design Channels
 
--   [DesignCourse](https://www.youtube.com/user/DesignCourse): Tutorials using Adobe XD, Photoshop and others.
+-   [DesignCourse](https://www.youtube.com/user/DesignCourse): Tutorials using Adobe XD, Photoshop and others
 
 ##### Coding Talks
 
@@ -242,9 +242,9 @@ Check out my [Website](http://lu-vuong-le.me) and [Blog](https://blog.lu-vuong-l
 
 -   [w3schools](https://www.w3schools.com/html/html_scripts.asp): Online learning resource for HTML, CSS, JS
 
--   [CodeAcademy](https://www.codecademy.com/): Learn different languages, responsive design, frameworks and much more online.
+-   [CodeAcademy](https://www.codecademy.com/): Learn different languages, responsive design, frameworks and much more online
 
--   [Codepen](https://codepen.io/): Front-End Development Playground and social environment to share works.
+-   [Codepen](https://codepen.io/): Front-End Development Playground and social environment to share works
 
 -   [ngrok](https://ngrok.com/): Public URLs for your localhost. Realtime Web UI for viewing HTTP traffic.com/en/): More free images
 
@@ -268,6 +268,8 @@ Check out my [Website](http://lu-vuong-le.me) and [Blog](https://blog.lu-vuong-l
 
 -   [World Vector Logos](https://worldvectorlogo.com/): Free SVG Vector Logos
 
+-   [FavIcon Generator](http://tools.dynamicdrive.com/favicon/): FavIcon Generator
+
 #### Back End Resources
 
 ---
@@ -283,6 +285,10 @@ Check out my [Website](http://lu-vuong-le.me) and [Blog](https://blog.lu-vuong-l
 -   [NPM](https://www.npmjs.com/): Search/Discover Node Modules
 
 -   [PyPI](https://pypi.org/): Repository of software for Python
+
+-   [Travis CI](https://travis-ci.org/): Continuous Integration Software
+
+-   [Circle CI](https://circleci.com/): Continuous Integration Software
 
 #### Design Resources
 
@@ -342,7 +348,7 @@ Check out my [Website](http://lu-vuong-le.me) and [Blog](https://blog.lu-vuong-l
 
 ##### Graphic Design Channels
 
--   [DesignCourse](https://www.youtube.com/user/DesignCourse): Tutorials using Adobe XD, Photoshop and others.
+-   [DesignCourse](https://www.youtube.com/user/DesignCourse): Tutorials using Adobe XD, Photoshop and others
 
 ##### Coding Talks
 
@@ -368,18 +374,22 @@ Check out my [Website](http://lu-vuong-le.me) and [Blog](https://blog.lu-vuong-l
 
 -   [Awwapp](https://awwapp.com/): Collaborative whiteboard
 
--   [CodeSandbox](https://codesandbox.io/): Online code editor that has angular, react and vue quick set ups.
+-   [CodeSandbox](https://codesandbox.io/): Online code editor that has angular, react and vue quick set ups
 
 -   [Coder](https://coder.com/): Online Cloud IDE
 
 -   [w3schools](https://www.w3schools.com/html/html_scripts.asp): Online learning resource for HTML, CSS, JS
 
--   [CodeAcademy](https://www.codecademy.com/): Learn different languages, responsive design, frameworks and much more online.
+-   [CodeAcademy](https://www.codecademy.com/): Learn different languages, responsive design, frameworks and much more online
 
--   [Codepen](https://codepen.io/): Front-End Development Playground and social environment to share works.
+-   [Codepen](https://codepen.io/): Front-End Development Playground and social environment to share works
 
 -   [ngrok](https://ngrok.com/): Public URLs for your localhost. Realtime Web UI for viewing HTTP traffic
 
 -   [Free Code Camp](https://www.freecodecamp.org/): Free Online Learning Resource for developers
 
 -   [Sabe](https://sabe.io/classes): Online learning with HTML5, CSS3, JS, PHP
+
+-   [Diff Checker](https://www.diffchecker.com/): Online tool to compare text file differences between two files
+
+-   [Cool Backgrounds](https://coolbackgrounds.io/): Collection of tools for compelling background images for blogs, social media and websites
