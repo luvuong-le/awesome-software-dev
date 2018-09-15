@@ -1,395 +1,184 @@
-### WEB DEVELOPMENT
+# 📚 Awesome Web Development 📚
 
----
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-> **_CURATED LIST OF BOTH FRONT-END, BACK-END AND DESIGN RESOURCES_**
+📝 **Curated List Of Both Front-End, Back-End And Design Resources** 👍
 
-Check out my [Website](http://lu-vuong-le.me) and [Blog](https://medium.com/journey-with-code)
+Check out my [Website](https://lu-vuong-le.me) and [Blog](https://medium.com/journey-with-code)
 
-#### Contents
+### Contributions
 
--   [Text Editors](#text-editors)
+To add a new field
+
+```javascript
+| Name | Description | Link |
+
+Example:
+
+| Resource Name| This is a cool framework! | Link to url |
+```
+
+### Table of Contents
+
+-   [📓 Text Editors 📓](#text-editors)
 -   [Front-End](#front-end)
 -   [HTML Resources](#html-resources)
 -   [CSS Resources](#css-resources)
 -   [JS Resources](#js-resources)
--   [Visual Media Resources](#visual-media-resources)
+-   [📷 Visual Media Resources 📷](#visual-media-resources)
 -   [Back End Resources](#back-end-resources)
--   [Deisgn Resources](#design-resources)
--   [Youtube Channels](#youtube-channels)
--   [Interesting Reads](#interesting-reads)
--   [Other Links](#other-links)
-
-#### Text Editors
-
----
-
--   [Visual Studio Code](https://code.visualstudio.com/): Lightweight but powerful code editor
-
--   [Brackets](http://brackets.io): Open source text editor
-
--   [Sublime Text](https://www.sublimetext.com/)
-
--   [Atom](https://atom.io/)
-
-#### Front End
-
----
-
-##### HTML Resources
-
--   [Emmet Cheatsheet](https://websitesetup.org/html5-cheat-sheet/): Useful for learning emmet shortcuts
-
--   [Can I Use](https://caniuse.com/): Cross browser compatibility
-
--   [Google Fonts](https://fonts.google.com/): Wide range of usable fonts from google
-
-##### CSS Resources
-
--   [CSS Icons](https://cssicon.space/#/animate): An interesting site that shows how to utilise CSS to create and animate icons using psuedo elements.
-
--   [Animate.CSS](https://daneden.github.io/animate.css/): CSS framework with multiple animation
-
--   [Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/): A complete guide on using flexbox
-
--   [Cubic Bezier](http://cubic-bezier.com/#.17,.67,.83,.67): Test our different cubic-bezier combinations
-
--   [Easing Functions](https://easings.net): List of different easing functions
-
--   [30+ CSS Selectors](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048): Good selectors and practices to use
-
--   [Clippy](https://bennettfeely.com/clippy/): CSS Clip Path Online Tool, Create basic or complex shapes and then embed them in your CSS!
-
--   [Responsive Grid System](http://www.responsivegridsystem.com): Responsive Grid System Generator
-
--   [CSS Grid Interactive](http://cssgr.id/): Interactive CSS Grid tool and code generator
-
--   [Animista](http://animista.net/): CSS Animation Tool
-
--   [Keyframes App](https://keyframes.app/): Create CSS animations easily. Has Chrome Extension or Web Application use
-
--   [Can I Use](https://caniuse.com/): Check browser support for CSS and Javascript
-
--   [V-Fonts](https://v-fonts.com/): Variable Font Resources (Some are paid)
-
--   [Axis Praxis](https://www.axis-praxis.org/specimens/__DEFAULT__): Experiment with Variable Fonts
-
-##### Javascript Resources
-
--   [Annyang](https://github.com/TalAter/annyang): Speech recognition JS Library
-
--   [MixItUp](https://www.kunkalabs.com/mixitup/): Javascript Library for pagination
-
--   [Scroll Reveal](https://scrollrevealjs.org/): Scroll reveal library
-
--   [Socket IO](https://socket.io/): Real Time Chat Engine
-
--   [Hammer JS](https://hammerjs.github.io/): Add Touch Gestures
-
--   [Typed.js](https://github.com/mattboldt/typed.js/): Typing Animation Library
-
--   [Swiper](http://idangero.us/swiper/demos/): Javascript Slider
-
--   [Chart JS](https://www.chartjs.org/): Plugin to create charts
-
--   [Quill JS](https://quilljs.com/): Powerful Text Editor for developers
-
--   [Lity JS](https://sorgalla.com/lity/): Responsive and Lightweight lightbox
-
--   [Datedropper](http://felicegattuso.com/projects/datedropper/): Datepicker using JQuery
-
--   [Timedropper](http://felicegattuso.com/projects/timedropper/): JQuery Plugin for a time picker
-
--   [Flatpickr](https://flatpickr.js.org): Lightweight date and time picker
-
--   [Nuxt JS](https://nuxtjs.org/): Framework for creating Vue.js applications with server side rendering, static generation and more
-
--   [VuePress](https://vuepress.vuejs.org/): Static Site Generator powered with Vue JS
-
-##### Visual Media Resources
-
----
-
-> Places to look for Free Photos | Videos
-
--   [Pexels](https://www.pexels.com): Free Stock Photos
-
--   [Unsplash](https://unsplash.com): High quality free images
-
--   [Videovo](https://www.videvo.net/): Free Stock Videos
-
--   [Pixabay](https://pixabay.com/en/): More free images
-
-> Places to look for Free Icons
-
--   [FlatIcon](https://www.flaticon.com/)
-
--   [Font Awesome](https://fontawesome.com/)
-
--   [Linea Icons](http://linea.io/)
-
--   [IcoMoon Icons](https://icomoon.io/)
-
--   [IonIcons](http://ionicons.com/)
-
--   [Dev Icons](http://konpa.github.io/devicon/)
-
--   [Icons8](https://icons8.com/): Free Flat Icons
-
--   [Material Design Icons](https://material.io/tools/icons/): Free SVG Material Icons
-
--   [World Vector Logos](https://worldvectorlogo.com/): Free SVG Vector Logos
-
-#### Back End Resources
-
----
-
--   [Postman](https://www.getpostman.com/): API development environment
-
--   [NodeJS Documentation](https://nodejs.org/api/https.html)
-
--   [VueJS Documentation](https://vuejs.org/v2/guide/)
-
--   [REACT Documentation](https://reactjs.org/docs/hello-world.html)
-
--   [NPM](https://www.npmjs.com/): Search/Discover Node Modules
-
--   [PyPI](https://pypi.org/): Repository of software for Python
-
-#### Design Resources
-
----
-
--   [Canva](https://www.canva.com): Create graphic designs online
-
--   [Dribble](https://dribbble.com/): Inspiration for designers
-
--   [Behanced](https://www.behance.net/): Showcase and Look at other peoples creative work
-
--   [Creative Portfolios](http://www.creative-portfolios.com/): A curated list of creative portfolios
-
--   [Adobe XD](https://www.adobe.com/au/products/xd.html): Adobe XD for UI Designs, free version available
-
--   [Photoshop](https://www.adobe.com/au/products/photoshop.html): Edit images, create UI Designs
-
--   [Collect UI](http://collectui.com/): Collection of User Interface Designs
-
--   [UI Movement](https://uimovement.com/): More UI design inspirations
-
--   [Figma](https://www.figma.com/): Collaborative Design tool with prototyping
-
--   [Sketch](https://www.sketchapp.com/): Design tool exclusive to MacOS
-
--   [Gravit Designer](https://www.designer.io/): Cross Platform Design Tool
-
-#### Youtube Channels
-
----
-
--   [Traversy Media](https://www.youtube.com/user/TechGuyWeb): Web Development & Programming Tutorials
-
--   [dcode](https://www.youtube.com/channel/UCjX0FtIZBBVD3YoCcxnDC4g): Javascript Tutorials and More
-
--   [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w): Online Education
-
--   [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q): Advanced Javascript Concepts and Tutorials
-
--   [LearnWebCode](https://www.youtube.com/channel/UCHRp19HU7Y2LwfI0Ai6WAGQ): Learn HTML, CSS, JQuery and Wordpress development
-
--   [Lets Build That App](https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA): Swift Tutorials | Node JS and App Reviews
-
--   [mmtuts](https://www.youtube.com/channel/UCzyuZJ8zZ-Lhfnz41DG5qLw): Multimedia | Web Design / Development Tutorials
-
--   [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Sharpen Your Web Skills
-
--   [Udemy Tech](https://www.youtube.com/channel/UCU6e4MJtvlcX5DBLP1cq8hQ): Programming Tutorials / Courses
-
--   [whatsdev](https://www.youtube.com/channel/UC0tRdbXVDbhaRvZPKsRgmxg): Wide range of programming tutorials
-
--   [KevinPowell](https://www.youtube.com/user/KepowOb): Weekly Web Development & Design (Tips | Tricks | Tutorials)
-
--   [Layout Land](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag): Amazing CSS Knowledge
-
--   [Program With Erik](https://www.youtube.com/channel/UCshZ3rdoCLjDYuTR_RBubzw): Programming Tutorials with Frameworks
-
-##### Graphic Design Channels
-
--   [DesignCourse](https://www.youtube.com/user/DesignCourse): Tutorials using Adobe XD, Photoshop and others
-
-##### Coding Talks
-
--   [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
-
-#### Interesting Reads
-
----
-
--   [Stack Overflow](https://stackoverflow.com/): Every Developers Friend
-
--   [Sitepoint](https://www.sitepoint.com/): Large amounts of web development articles
-
--   [CSS Tricks](https://css-tricks.com/): All things CSS
-
--   [What is REST?](https://www.codecademy.com/articles/what-is-rest?utm_source=customer_io&utm_campaign=api_2_13_18&utm_medium=email&utm_term=a&utm_content=inline_link)
-
--   [What are RESTful APIs?](https://stackoverflow.com/questions/671118/what-exactly-is-restful-programming)
-
-#### Other Links
-
----
-
--   [Awwapp](https://awwapp.com/): Collaborative whiteboard
-
--   [w3schools](https://www.w3schools.com/html/html_scripts.asp): Online learning resource for HTML, CSS, JS
-
--   [CodeAcademy](https://www.codecademy.com/): Learn different languages, responsive design, frameworks and much more online
-
--   [Codepen](https://codepen.io/): Front-End Development Playground and social environment to share works
-
--   [ngrok](https://ngrok.com/): Public URLs for your localhost. Realtime Web UI for viewing HTTP traffic.com/en/): More free images
-
-> Places to look for Free Icons
-
--   [FlatIcon](https://www.flaticon.com/)
-
--   [Font Awesome](https://fontawesome.com/)
-
--   [Linea Icons](http://linea.io/)
-
--   [IcoMoon Icons](https://icomoon.io/)
-
--   [IonIcons](http://ionicons.com/)
-
--   [Dev Icons](http://konpa.github.io/devicon/)
-
--   [Icons8](https://icons8.com/): Free Flat Icons
-
--   [Material Design Icons](https://material.io/tools/icons/): Free SVG Material Icons
-
--   [World Vector Logos](https://worldvectorlogo.com/): Free SVG Vector Logos
-
--   [FavIcon Generator](http://tools.dynamicdrive.com/favicon/): FavIcon Generator
-
-#### Back End Resources
-
----
-
--   [Postman](https://www.getpostman.com/): API development environment
-
--   [NodeJS Documentation](https://nodejs.org/api/https.html)
-
--   [VueJS Documentation](https://vuejs.org/v2/guide/)
-
--   [REACT Documentation](https://reactjs.org/docs/hello-world.html)
-
--   [NPM](https://www.npmjs.com/): Search/Discover Node Modules
-
--   [PyPI](https://pypi.org/): Repository of software for Python
-
--   [Travis CI](https://travis-ci.org/): Continuous Integration Software
-
--   [Circle CI](https://circleci.com/): Continuous Integration Software
-
-#### Design Resources
-
----
-
--   [Canva](https://www.canva.com): Create graphic designs online
-
--   [Dribble](https://dribbble.com/): Inspiration for designers
-
--   [Behanced](https://www.behance.net/): Showcase and Look at other peoples creative work
-
--   [Creative Portfolios](http://www.creative-portfolios.com/): A curated list of creative portfolios
-
--   [Adobe XD](https://www.adobe.com/au/products/xd.html): Adobe XD for UI Designs, free version available
-
--   [Photoshop](https://www.adobe.com/au/products/photoshop.html): Edit images, create UI Designs
-
--   [Collect UI](http://collectui.com/): Collection of User Interface Designs
-
--   [UI Movement](https://uimovement.com/): More UI design inspirations
-
--   [Figma](https://www.figma.com/): Collaborative Design tool with prototyping
-
--   [Sketch](https://www.sketchapp.com/): Design tool exclusive to MacOS
-
--   [Gravit Designer](https://www.designer.io/): Cross Platform Design Tool
-
-#### Youtube Channels
-
----
-
--   [Traversy Media](https://www.youtube.com/user/TechGuyWeb): Web Development & Programming Tutorials
-
--   [dcode](https://www.youtube.com/channel/UCjX0FtIZBBVD3YoCcxnDC4g): Javascript Tutorials and More
-
--   [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w): Online Education
-
--   [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q): Advanced Javascript Concepts and Tutorials
-
--   [LearnWebCode](https://www.youtube.com/channel/UCHRp19HU7Y2LwfI0Ai6WAGQ): Learn HTML, CSS, JQuery and Wordpress development
-
--   [Lets Build That App](https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA): Swift Tutorials | Node JS and App Reviews
-
--   [mmtuts](https://www.youtube.com/channel/UCzyuZJ8zZ-Lhfnz41DG5qLw): Multimedia | Web Design / Development Tutorials
-
--   [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Sharpen Your Web Skills
-
--   [Udemy Tech](https://www.youtube.com/channel/UCU6e4MJtvlcX5DBLP1cq8hQ): Programming Tutorials / Courses
-
--   [whatsdev](https://www.youtube.com/channel/UC0tRdbXVDbhaRvZPKsRgmxg): Wide range of programming tutorials
-
--   [KevinPowell](https://www.youtube.com/user/KepowOb): Weekly Web Development & Design (Tips | Tricks | Tutorials)
-
--   [Layout Land](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag): Amazing CSS Knowledge
-
--   [Program With Erik](https://www.youtube.com/channel/UCshZ3rdoCLjDYuTR_RBubzw): Programming Tutorials with Frameworks
-
-##### Graphic Design Channels
-
--   [DesignCourse](https://www.youtube.com/user/DesignCourse): Tutorials using Adobe XD, Photoshop and others
-
-##### Coding Talks
-
--   [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
-
-#### Interesting Reads
-
----
-
--   [Stack Overflow](https://stackoverflow.com/): Every Developers Friend
-
--   [Sitepoint](https://www.sitepoint.com/): Large amounts of web development articles
-
--   [CSS Tricks](https://css-tricks.com/): All things CSS
-
--   [What is REST?](https://www.codecademy.com/articles/what-is-rest?utm_source=customer_io&utm_campaign=api_2_13_18&utm_medium=email&utm_term=a&utm_content=inline_link)
-
--   [What are RESTful APIs?](https://stackoverflow.com/questions/671118/what-exactly-is-restful-programming)
-
-#### Other Links
-
----
-
--   [Awwapp](https://awwapp.com/): Collaborative whiteboard
-
--   [CodeSandbox](https://codesandbox.io/): Online code editor that has angular, react and vue quick set ups
-
--   [Coder](https://coder.com/): Online Cloud IDE
-
--   [w3schools](https://www.w3schools.com/html/html_scripts.asp): Online learning resource for HTML, CSS, JS
-
--   [CodeAcademy](https://www.codecademy.com/): Learn different languages, responsive design, frameworks and much more online
-
--   [Codepen](https://codepen.io/): Front-End Development Playground and social environment to share works
-
--   [ngrok](https://ngrok.com/): Public URLs for your localhost. Realtime Web UI for viewing HTTP traffic
-
--   [Free Code Camp](https://www.freecodecamp.org/): Free Online Learning Resource for developers
-
--   [Sabe](https://sabe.io/classes): Online learning with HTML5, CSS3, JS, PHP
-
--   [Diff Checker](https://www.diffchecker.com/): Online tool to compare text file differences between two files
-
--   [Cool Backgrounds](https://coolbackgrounds.io/): Collection of tools for compelling background images for blogs, social media and websites
+-   [🖌 Deisgn Resources 🖌](#design-resources)
+-   [⏯ Youtube Channels ⏯](#youtube-channels)
+-   [📖 Interesting Reads 📖](#interesting-reads)
+-   [📛 Github Badges 📛](#github-badges)
+-   [🔗 Other Links 🔗](#other-links)
+
+### Text Editors
+
+| Name               | Description                          | Link ↘️                        |
+| ------------------ | ------------------------------------ | ------------------------------ |
+| Visual Studio Code | Lightweight but powerful code editor | https://code.visualstudio.com/ |
+| Brackets           | -                                    | http://brackets.io)            |
+| Sublime Text       | -                                    | https://www.sublimetext.com/   |
+| Atom               | -                                    | https://nodejs.org/en/         |
+
+### Front End Resources
+
+#### HTML Resources
+
+| Name             | Description                            | Link ↘️                                     |
+| ---------------- | -------------------------------------- | ------------------------------------------- |
+| Emmet Cheatsheet | Useful for learning emmet shortcuts    | https://websitesetup.org/html5-cheat-sheet/ |
+| Can I Use        | Cross browser compatibility            | https://caniuse.com/)                       |
+| Google Fonts     | Wide range of usable fonts from google | https://fonts.google.com/                   |
+
+#### CSS Resources
+
+| Name                   | Description                                                                                | Link ↘️                                                 |
+| ---------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------- |
+| CSS Icons              | Useful for learning emmet shortcuts                                                        | https://cssicon.space/#/animate                         |
+| Animate.CSS            | Cross browser compatibility                                                                | https://daneden.github.io/animate.css/                  |
+| Flexbox Guide          | A complete guide on using flexbox                                                          | https://css-tricks.com/snippets/css/a-guide-to-flexbox/ |
+| Cubic Bezier           | Test our different cubic-bezier combinations                                               | http://cubic-bezier.com/#.17,.67,.83,.67                |
+| Easing Functions       | List of different easing functions                                                         | https://easings.net                                     |
+| Clippy                 | CSS Clip Path Online Tool, Create basic or complex shapes and then embed them in your CSS! | https://bennettfeely.com/clippy/                        |
+| Responsive Grid System | Responsive Grid System Generator                                                           | http://www.responsivegridsystem.com                     |
+| CSS Grid Interactive   | Interactive CSS Grid tool and code generator                                               | http://cssgr.id/                                        |
+| Animista               | CSS Animation Tool                                                                         | http://animista.net/                                    |
+| Keyframes App          | Create CSS animations easily. Has Chrome Extension or Web Application use                  | https://keyframes.app/                                  |
+| V-Fonts                | Variable Font Resources (Some are paid)                                                    | https://v-fonts.com/                                    |
+| Axis Praxis            | Experiment with Variable Fonts                                                             | https://www.axis-praxis.org                             |
+| CSS Tricks             | All things CSS                                                                             | https://css-tricks.com/                                 |
+
+#### Javascript Resources
+
+| Name          | Description                                                                                       | Link ↘️                                        |
+| ------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| Annyang       | Speech recognition JS Library                                                                     | https://github.com/TalAter/annyang             |
+| MixItUp       | Javascript Library for pagination                                                                 | https://www.kunkalabs.com/mixitup/             |
+| Scroll Reveal | Scroll reveal library                                                                             | https://scrollrevealjs.org/                    |
+| Socket IO     | Real Time Chat Engine                                                                             | https://socket.io/                             |
+| Hammer JS     | Add Touch Gestures                                                                                | https://hammerjs.github.io/                    |
+| Typed.js      | Typing Animation Library                                                                          | https://github.com/mattboldt/typed.js/         |
+| Swiper        | Javascript Slider                                                                                 | http://idangero.us/swiper/demos/               |
+| Chart JS      | Plugin to create charts                                                                           | https://www.chartjs.org/                       |
+| Quill JS      | Powerful Text Editor for developers                                                               | https://quilljs.com/                           |
+| Lity JS       | Responsive and Lightweight lightbox                                                               | https://sorgalla.com/lity/                     |
+| V-Fonts       | Variable Font Resources (Some are paid)                                                           | https://v-fonts.com/                           |
+| Datedropper   | Datepicker using JQuery                                                                           | http://felicegattuso.com/projects/datedropper/ |
+| Timedropper   | JQuery Plugin for a time picker                                                                   | http://felicegattuso.com/projects/timedropper/ |
+| Flatpickr     | Lightweight date and time picker                                                                  | https://flatpickr.js.org                       |
+| Nuxt JS       | Framework for creating Vue.js applications with server side rendering, static generation and more | https://nuxtjs.org/                            |
+| VuePress      | Static Site Generator powered with Vue JS                                                         | https://vuepress.vuejs.org/                    |
+
+#### Visual Media Resources
+
+Places to look for Free Photos | Videos
+
+| Name     | Description              | Link ↘️                 |
+| -------- | ------------------------ | ----------------------- |
+| Pexels   | Free Stock Photos        | https://www.pexels.com  |
+| Unsplash | High quality free images | https://unsplash.com    |
+| Videovo  | Free Stock Videos        | https://www.videvo.net/ |
+| Pixabay  | More free images         | https://pixabay.com/en/ |
+
+Places to look for Free Icons
+
+| Name                  | Description             | Link ↘️                          |
+| --------------------- | ----------------------- | -------------------------------- |
+| FlatIcon              | -                       | https://www.flaticon.com/        |
+| Font Awesome          | -                       | https://fontawesome.com/         |
+| Linea Icons           | -                       | http://linea.io/                 |
+| IonIcons              | -                       | http://ionicons.com/             |
+| Dev Icons             | -                       | http://konpa.github.io/devicon/  |
+| Icons8                | Free Flat Icons         | https://icons8.com/              |
+| Material Design Icons | Free SVG Material Icons | https://material.io/tools/icons/ |
+| World Vector Logos    | Free SVG Vector Logos   | https://worldvectorlogo.com/     |
+
+### Back End Resources
+
+| Name                 | Description                                                              | Link ↘️                                   |
+| -------------------- | ------------------------------------------------------------------------ | ----------------------------------------- |
+| Postman              | API development environment                                              | https://www.getpostman.com/               |
+| NodeJS Documentation | -                                                                        | https://nodejs.org/api/https.html         |
+| VueJS Documentation  | -                                                                        | https://vuejs.org/v2/guide/               |
+| REACT Documentation  | -                                                                        | https://reactjs.org/docs/hello-world.html |
+| NPM                  | Search/Discover Node Modules                                             | https://www.npmjs.com/                    |
+| PyPI                 | Repository of software for Python                                        | https://pypi.org/                         |
+| ngrok                | Public URLs for your localhost. Realtime Web UI for viewing HTTP traffic | https://ngrok.com/                        |
+| Travis CI            | Continuous Integration Software                                          | https://travis-ci.org/                    |
+| Circle CI            | Continuous Integration Software                                          | https://circleci.com/                     |
+
+### Design Resources
+
+| Name                | Description                                      | Link ↘️                                          |
+| ------------------- | ------------------------------------------------ | ------------------------------------------------ |
+| Canva               | Create graphic designs online                    | https://www.canva.com                            |
+| Dribble             | Inspiration for designers                        | https://dribbble.com/                            |
+| Behanced            | Showcase and Look at other peoples creative work | https://www.behance.net/                         |
+| Creative Portfolios | A curated list of creative portfolios            | http://www.creative-portfolios.com/              |
+| Adobe XD            | Adobe XD for UI Designs, free version available  | https://www.adobe.com/au/products/xd.html        |
+| Photoshop           | Photo Manipulation Software                      | https://www.adobe.com/au/products/photoshop.html |
+| Collect UI          | Collection of User Interface Designs             | http://collectui.com/                            |
+| UI Movement         | More UI design inspirations                      | https://uimovement.com/                          |
+| Figma               | Collaborative Design tool with prototyping       | https://www.figma.com/                           |
+| Sketch              | Design tool exclusive to MacOS                   | https://www.sketchapp.com/                       |
+| Gravit Designer     | Cross Platform Design Tool                       | https://www.designer.io/                         |
+
+### Youtube Channels
+
+| Name                | Description                                              | Link ↘️                                                  |
+| ------------------- | -------------------------------------------------------- | -------------------------------------------------------- |
+| Traversy Media      | Web Development & Programming Tutorials                  | https://www.youtube.com/user/TechGuyWeb                  |
+| dcode               | Javascript Tutorials and More                            | https://www.youtube.com/channel/UCjX0FtIZBBVD3YoCcxnDC4g |
+| Academind           | Online Education                                         | https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w |
+| Fun Fun Function    | Advanced Javascript Concepts and Tutorials               | https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q |
+| LearnWebCode        | Learn HTML, CSS, JQuery and Wordpress development        | https://www.youtube.com/channel/UCHRp19HU7Y2LwfI0Ai6WAGQ |
+| Lets Build That App | Swift Tutorials & Node JS and App Reviews                | https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA |
+| mmtuts              | Multimedia & Web Design & Development Tutorials          | https://www.youtube.com/channel/UCzyuZJ8zZ-Lhfnz41DG5qLw |
+| The Net Ninja       | Sharpen Your Web Skills                                  | https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg |
+| Udemy Tech          | Programming Tutorials / Courses                          | https://www.youtube.com/channel/UCU6e4MJtvlcX5DBLP1cq8hQ |
+| whatsdev            | Wide range of programming tutorials                      | https://www.youtube.com/channel/UC0tRdbXVDbhaRvZPKsRgmxg |
+| KevinPowell         | Weekly Web Development & Design (Tips Tricks &Tutorials) | https://www.youtube.com/user/KepowOb                     |
+| Layout Land         | Amazing CSS Knowledge                                    | https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag |
+| Program With Erik   | Programming Tutorials with Frameworks                    | https://www.youtube.com/channel/UCshZ3rdoCLjDYuTR_RBubzw |
+| DesignCourse        | Tutorials using Adobe XD, Photoshop and others           | https://www.youtube.com/user/DesignCourse                |
+| Coding Tech         | Frequent uploads of tech talks                           | https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ |
+
+### Github Badges
+
+| Name          | Description                | Link ↘️               |
+| ------------- | -------------------------- | --------------------- |
+| Code Coverage | Code Coverage              | https://coveralls.io/ |
+| David DM      | Keep track of dependencies | https://david-dm.org  |
+
+### Other Links
+
+| Name           | Description                                                                   | Link ↘️                                         |
+| -------------- | ----------------------------------------------------------------------------- | ----------------------------------------------- |
+| Stack Overflow | Every Developers Friend                                                       | https://stackoverflow.com/                      |
+| Sitepoint      | Large amounts of web development articles                                     | https://www.sitepoint.com/                      |
+| Awwapp         | Collaborative whiteboard                                                      | https://awwapp.com/                             |
+| w3schools      | Online learning resource for HTML, CSS, JS                                    | https://www.w3schools.com/html/html_scripts.asp |
+| CodeAcademy    | Learn different languages, responsive design, frameworks and much more online | https://www.codecademy.com/                     |
+| Codepen        | Front-End Development Playground and social environment to share works        | https://codepen.io/                             |
