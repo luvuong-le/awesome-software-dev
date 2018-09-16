@@ -54,21 +54,22 @@ Example:
 
 #### CSS Resources
 
-| Name                   | Description                                                                                | Link ↘️                                                 |
-| ---------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------- |
-| CSS Icons              | Useful for learning emmet shortcuts                                                        | https://cssicon.space/#/animate                         |
-| Animate.CSS            | Cross browser compatibility                                                                | https://daneden.github.io/animate.css/                  |
-| Flexbox Guide          | A complete guide on using flexbox                                                          | https://css-tricks.com/snippets/css/a-guide-to-flexbox/ |
-| Cubic Bezier           | Test our different cubic-bezier combinations                                               | http://cubic-bezier.com/#.17,.67,.83,.67                |
-| Easing Functions       | List of different easing functions                                                         | https://easings.net                                     |
-| Clippy                 | CSS Clip Path Online Tool, Create basic or complex shapes and then embed them in your CSS! | https://bennettfeely.com/clippy/                        |
-| Responsive Grid System | Responsive Grid System Generator                                                           | http://www.responsivegridsystem.com                     |
-| CSS Grid Interactive   | Interactive CSS Grid tool and code generator                                               | http://cssgr.id/                                        |
-| Animista               | CSS Animation Tool                                                                         | http://animista.net/                                    |
-| Keyframes App          | Create CSS animations easily. Has Chrome Extension or Web Application use                  | https://keyframes.app/                                  |
-| V-Fonts                | Variable Font Resources (Some are paid)                                                    | https://v-fonts.com/                                    |
-| Axis Praxis            | Experiment with Variable Fonts                                                             | https://www.axis-praxis.org                             |
-| CSS Tricks             | All things CSS                                                                             | https://css-tricks.com/                                 |
+| Name                                | Description                                                                                | Link ↘️                                                 |
+| ----------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------- |
+| CSS Icons                           | Useful for learning emmet shortcuts                                                        | https://cssicon.space/#/animate                         |
+| Animate.CSS                         | Cross browser compatibility                                                                | https://daneden.github.io/animate.css/                  |
+| Flexbox Guide                       | A complete guide on using flexbox                                                          | https://css-tricks.com/snippets/css/a-guide-to-flexbox/ |
+| Cubic Bezier                        | Test our different cubic-bezier combinations                                               | http://cubic-bezier.com/#.17,.67,.83,.67                |
+| Easing Functions                    | List of different easing functions                                                         | https://easings.net                                     |
+| Clippy                              | CSS Clip Path Online Tool, Create basic or complex shapes and then embed them in your CSS! | https://bennettfeely.com/clippy/                        |
+| Responsive Grid System              | Responsive Grid System Generator                                                           | http://www.responsivegridsystem.com                     |
+| CSS Grid Interactive                | Interactive CSS Grid tool and code generator                                               | http://cssgr.id/                                        |
+| Animista                            | CSS Animation Tool                                                                         | http://animista.net/                                    |
+| Keyframes App                       | Create CSS animations easily. Has Chrome Extension or Web Application use                  | https://keyframes.app/                                  |
+| V-Fonts                             | Variable Font Resources (Some are paid)                                                    | https://v-fonts.com/                                    |
+| Axis Praxis                         | Experiment with Variable Fonts                                                             | https://www.axis-praxis.org                             |
+| CSS Tricks                          | All things CSS                                                                             | https://css-tricks.com/                                 |
+| GreenSock Animation Platform (GSAP) | Ultra high-performance, professional-grade animation for the modern web                    | https://greensock.com/                                  |
 
 #### Javascript Resources
 
