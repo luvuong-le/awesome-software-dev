@@ -84,6 +84,13 @@
 | VuePress          | Static Site Generator powered with Vue JS                                                         | https://vuepress.vuejs.org/                           |
 | Google Maps React | Google Maps API & React Integration                                                               | https://github.com/fullstackreact/google-maps-react   |
 
+#### Places to look for React Resources  ####
+
+| Name                     | Description 📓                  | Link ↘️                               |
+| ---------------------    | ------------------------------- | ------------------------------------ |
+| Material-UI              | Use for UI components           | https://material-ui.com/             |
+| React Bootstrap          | Use for UI components           | https://react-bootstrap.github.io/   |
+
 #### Visual Media Resources
 
 **Places to look for Free Photos | Videos**
@@ -165,20 +172,7 @@
 | Coding Tech         | Frequent uploads of tech talks                           | https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ |
 | sentdex	      | Python Programming tutorials, machine learning and data analysis | https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ |
 | Derek Banas         |  Tutorials based on user requests                        | https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw |
-
-
-
-
-**Places to look resources for React**
-
-| Name                     | Description 📓                  | Link ↘️                             |
-| ---------------------    | ------------------------------- | --------------------------------     |
-| Material-UI              | Use for UI components           | https://material-ui.com/             |
-| React Bootstrap          | Use for UI components           | https://react-bootstrap.github.io/   |
-| Font Awesome             | Use for font purpose            | https://fontawesome.com/             |
-
-
-
+| Dev Tips            |  Weekly show to learn programming                        | https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ |
 
 ### Github Badges
 
@@ -206,10 +200,10 @@
 | Name              | Description 📓                                                                | Link ↘️                                          |
 | ----------------- | ----------------------------------------------------------------------------- | ----------------------------------------------- |
 | Justen Phelps     | Full Stack developer from Los Angeles, CA                                     | https://www.justenphelps.com                    |
-| Marcus Lindstedt  | -                                                                             | https://github.com/BerimboloEnterprises
-| Ahmed Ezzat	    | Android Developer from Alexandria, Eg                                         | https://github.com/AhmedMaghawry
-| Umar Aslam Nawab	    | Javascript Developer from Karachi,Pakistan
-| https://github.com/UmarAslamNawab
+| Marcus Lindstedt  | -                                                                             | https://github.com/BerimboloEnterprises         |
+| Ahmed Ezzat	    | Android Developer from Alexandria, Eg                                         | https://github.com/AhmedMaghawry                |
+| Umar Aslam Nawab	| Javascript Developer from Karachi,Pakistan                                    | https://github.com/UmarAslamNawab               |
+
 ## License
 
 [![forthebadge](https://forthebadge.com/images/badges/cc-0.svg)](https://forthebadge.com)
