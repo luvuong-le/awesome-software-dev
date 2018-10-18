@@ -1,52 +1,40 @@
-# 📚 Awesome Web Development 📚
+# 📚 Awesome Software Development 📚 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
 
-📝 **Curated List Of Both Front-End, Back-End And Design Resources** 👍
-
-Check out my [Website](https://lu-vuong-le.me) and [Blog](https://medium.com/journey-with-code)
-
-### Contributions
-
-To add a new field
-
-```javascript
-| Name | Description | Link |
-
-Example:
-
-| Resource Name| This is a cool framework! | Link to url |
-```
+📝 **Curated List Of Awesome Software Development Resources** 💯 🔥
 
 ### Table of Contents
 
 -   [📓 Text Editors 📓](#text-editors)
--   [Front-End](#front-end)
+-   [Front-End Resources](#front-end-resources)
 -   [HTML Resources](#html-resources)
 -   [CSS Resources](#css-resources)
 -   [JS Resources](#js-resources)
 -   [📷 Visual Media Resources 📷](#visual-media-resources)
--   [Back End Resources](#back-end-resources)
--   [🖌 Deisgn Resources 🖌](#design-resources)
+-   [🖥 Back End Resources 🖥](#back-end-resources)
+-   [🖌 Design Resources 🖌](#design-resources)
 -   [⏯ Youtube Channels ⏯](#youtube-channels)
 -   [📖 Interesting Reads 📖](#interesting-reads)
 -   [📛 Github Badges 📛](#github-badges)
 -   [🔗 Other Links 🔗](#other-links)
 
-### Text Editors
+### Code Editors
 
-| Name               | Description                          | Link ↘️                        |
-| ------------------ | ------------------------------------ | ------------------------------ |
-| Visual Studio Code | Lightweight but powerful code editor | https://code.visualstudio.com/ |
-| Brackets           | -                                    | http://brackets.io)            |
-| Sublime Text       | -                                    | https://www.sublimetext.com/   |
-| Atom               | -                                    | https://nodejs.org/en/         |
+| Name               | Description 📓                                         | Link ↘️                        |
+| ------------------ | ------------------------------------------------------ | ------------------------------ |
+| Visual Studio Code | Lightweight but powerful code editor                   | https://code.visualstudio.com/ |
+| Brackets           | Code editor with focus on web development              | http://brackets.io)            |
+| Sublime Text       | A sophisticated text editor for code, markup and prose | https://www.sublimetext.com/   |
+| Atom               | Modern code editor with many plugins                   | https://nodejs.org/en/         |
 
 ### Front End Resources
 
 #### HTML Resources
 
-| Name             | Description                            | Link ↘️                                     |
+| Name             | Description 📓                         | Link ↘️                                     |
 | ---------------- | -------------------------------------- | ------------------------------------------- |
 | Emmet Cheatsheet | Useful for learning emmet shortcuts    | https://websitesetup.org/html5-cheat-sheet/ |
 | Can I Use        | Cross browser compatibility            | https://caniuse.com/)                       |
@@ -54,7 +42,7 @@ Example:
 
 #### CSS Resources
 
-| Name                                | Description                                                                                | Link ↘️                                                 |
+| Name                                | Description 📓                                                                             | Link ↘️                                                 |
 | ----------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------- |
 | CSS Icons                           | Useful for learning emmet shortcuts                                                        | https://cssicon.space/#/animate                         |
 | Animate.CSS                         | Cross browser compatibility                                                                | https://daneden.github.io/animate.css/                  |
@@ -73,7 +61,7 @@ Example:
 
 #### Javascript Resources
 
-| Name          | Description                                                                                       | Link ↘️                                        |
+| Name          | Description 📓                                                                                    | Link ↘️                                        |
 | ------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
 | Annyang       | Speech recognition JS Library                                                                     | https://github.com/TalAter/annyang             |
 | MixItUp       | Javascript Library for pagination                                                                 | https://www.kunkalabs.com/mixitup/             |
@@ -94,45 +82,42 @@ Example:
 
 #### Visual Media Resources
 
-Places to look for Free Photos | Videos
+**Places to look for Free Photos | Videos**
 
-| Name     | Description              | Link ↘️                 |
+| Name     | Description 📓           | Link ↘️                 |
 | -------- | ------------------------ | ----------------------- |
 | Pexels   | Free Stock Photos        | https://www.pexels.com  |
 | Unsplash | High quality free images | https://unsplash.com    |
 | Videovo  | Free Stock Videos        | https://www.videvo.net/ |
 | Pixabay  | More free images         | https://pixabay.com/en/ |
 
-Places to look for Free Icons
+**Places to look for Free Icons**
 
-| Name                  | Description             | Link ↘️                          |
-| --------------------- | ----------------------- | -------------------------------- |
-| FlatIcon              | -                       | https://www.flaticon.com/        |
-| Font Awesome          | -                       | https://fontawesome.com/         |
-| Linea Icons           | -                       | http://linea.io/                 |
-| IonIcons              | -                       | http://ionicons.com/             |
-| Dev Icons             | -                       | http://konpa.github.io/devicon/  |
-| Icons8                | Free Flat Icons         | https://icons8.com/              |
-| Material Design Icons | Free SVG Material Icons | https://material.io/tools/icons/ |
-| World Vector Logos    | Free SVG Vector Logos   | https://worldvectorlogo.com/     |
+| Name                  | Description 📓                  | Link ↘️                          |
+| --------------------- | ------------------------------- | -------------------------------- |
+| FlatIcon              | Free Vector Icons               | https://www.flaticon.com/        |
+| Font Awesome          | Font and icon toolkit           | https://fontawesome.com/         |
+| Linea Icons           | Free iconset by Dario Ferrando  | http://linea.io/                 |
+| IonIcons              | Open Source Icons               | http://ionicons.com/             |
+| Dev Icons             | Icons for programming languages | http://konpa.github.io/devicon/  |
+| Icons8                | Free Flat Icons                 | https://icons8.com/              |
+| Material Design Icons | Free SVG Material Icons         | https://material.io/tools/icons/ |
+| World Vector Logos    | Free SVG Vector Logos           | https://worldvectorlogo.com/     |
 
 ### Back End Resources
 
-| Name                 | Description                                                              | Link ↘️                                   |
-| -------------------- | ------------------------------------------------------------------------ | ----------------------------------------- |
-| Postman              | API development environment                                              | https://www.getpostman.com/               |
-| NodeJS Documentation | -                                                                        | https://nodejs.org/api/https.html         |
-| VueJS Documentation  | -                                                                        | https://vuejs.org/v2/guide/               |
-| REACT Documentation  | -                                                                        | https://reactjs.org/docs/hello-world.html |
-| NPM                  | Search/Discover Node Modules                                             | https://www.npmjs.com/                    |
-| PyPI                 | Repository of software for Python                                        | https://pypi.org/                         |
-| ngrok                | Public URLs for your localhost. Realtime Web UI for viewing HTTP traffic | https://ngrok.com/                        |
-| Travis CI            | Continuous Integration Software                                          | https://travis-ci.org/                    |
-| Circle CI            | Continuous Integration Software                                          | https://circleci.com/                     |
+| Name      | Description 📓                                                           | Link ↘️                     |
+| --------- | ------------------------------------------------------------------------ | --------------------------- |
+| Postman   | API development environment                                              | https://www.getpostman.com/ |
+| NPM       | Search/Discover Node Modules                                             | https://www.npmjs.com/      |
+| PyPI      | Repository of software for Python                                        | https://pypi.org/           |
+| ngrok     | Public URLs for your localhost. Realtime Web UI for viewing HTTP traffic | https://ngrok.com/          |
+| Travis CI | Continuous Integration Software                                          | https://travis-ci.org/      |
+| Circle CI | Continuous Integration Software                                          | https://circleci.com/       |
 
 ### Design Resources
 
-| Name                | Description                                      | Link ↘️                                          |
+| Name                | Description 📓                                   | Link ↘️                                          |
 | ------------------- | ------------------------------------------------ | ------------------------------------------------ |
 | Canva               | Create graphic designs online                    | https://www.canva.com                            |
 | Dribble             | Inspiration for designers                        | https://dribbble.com/                            |
@@ -148,7 +133,7 @@ Places to look for Free Icons
 
 ### Youtube Channels
 
-| Name                | Description                                              | Link ↘️                                                  |
+| Name                | Description 📓                                           | Link ↘️                                                  |
 | ------------------- | -------------------------------------------------------- | -------------------------------------------------------- |
 | Traversy Media      | Web Development & Programming Tutorials                  | https://www.youtube.com/user/TechGuyWeb                  |
 | dcode               | Javascript Tutorials and More                            | https://www.youtube.com/channel/UCjX0FtIZBBVD3YoCcxnDC4g |
@@ -168,14 +153,16 @@ Places to look for Free Icons
 
 ### Github Badges
 
-| Name          | Description                | Link ↘️               |
-| ------------- | -------------------------- | --------------------- |
-| Code Coverage | Code Coverage              | https://coveralls.io/ |
-| David DM      | Keep track of dependencies | https://david-dm.org  |
+| Name           | Description 📓                  | Link ↘️                                              |
+| -------------- | ------------------------------- | ---------------------------------------------------- |
+| Code Coverage  | Code Coverage                   | https://coveralls.io/                                |
+| David DM       | Keep track of dependencies      | https://david-dm.org                                 |
+| For the badge  | Extra badges for github repos   | https://forthebadge.com                              |
+| License Badges | Badges for licenses such as MIT | https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba |
 
 ### Other Links
 
-| Name           | Description                                                                   | Link ↘️                                         |
+| Name           | Description 📓                                                                | Link ↘️                                         |
 | -------------- | ----------------------------------------------------------------------------- | ----------------------------------------------- |
 | Stack Overflow | Every Developers Friend                                                       | https://stackoverflow.com/                      |
 | Sitepoint      | Large amounts of web development articles                                     | https://www.sitepoint.com/                      |
