@@ -115,6 +115,12 @@
 | Travis CI | Continuous Integration Software                                          | https://travis-ci.org/      |
 | Circle CI | Continuous Integration Software                                          | https://circleci.com/       |
 
+### Infrastructure Resources
+
+| Name      | Description 📓                                                           | Link ↘️                     |
+| --------- | ------------------------------------------------------------------------ | --------------------------- |
+| Terraform | Infrastructure as code tool                                              | https://terraform.io        |
+
 ### Design Resources
 
 | Name                | Description 📓                                   | Link ↘️                                          |
