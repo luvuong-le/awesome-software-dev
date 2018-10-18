@@ -170,3 +170,7 @@
 | w3schools      | Online learning resource for HTML, CSS, JS                                    | https://www.w3schools.com/html/html_scripts.asp |
 | CodeAcademy    | Learn different languages, responsive design, frameworks and much more online | https://www.codecademy.com/                     |
 | Codepen        | Front-End Development Playground and social environment to share works        | https://codepen.io/                             |
+
+## License
+
+[![forthebadge](https://forthebadge.com/images/badges/cc-0.svg)](https://forthebadge.com)

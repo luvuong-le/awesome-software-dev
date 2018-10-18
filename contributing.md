@@ -11,11 +11,18 @@ Ensure your pull requests meets the following guidelines
 -   Check for spelling and grammar
 -   Ensure markdown formatting is set and removes trailing whitespace
 -   Pull request should describe what you added/changed and why
--   Share your knowledge with other developers! It could be web development based or machine learning etc :)
+-   Share your knowledge with other developers! It could be web development based or machine learning etc
 
 ### How to add a contribution
 
 To add a new field
+
+-   Fork this repository
+-   Clone your forked repo locally
+-   Create a new branch, eg git checkout -b branch-name
+-   Make your additions to README.md file with based on the following formats below
+-   Push your changes to your forked repo
+-   Create a pull request with the changes from your branch and submit for review!
 
 ```md
 Format of table: | Name | Description 📓 | Link ↘️ |
@@ -36,3 +43,5 @@ To add a new category, add the new heading below the rest and create a new table
 ```
 
 Feel free to add a new category, if you choose to do so please add it to the table of contents as well, Thanks! Let's make this an awesome list!
+
+I'm always open to new contributors :)
