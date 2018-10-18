@@ -166,6 +166,20 @@
 | sentdex	      | Python Programming tutorials, machine learning and data analysis | https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ |
 | Derek Banas         |  Tutorials based on user requests                        | https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw |
 
+
+
+
+**Places to look resources for React**
+
+| Name                     | Description 📓                  | Link ↘️                             |
+| ---------------------    | ------------------------------- | --------------------------------     |
+| Material-UI              | Use for UI components           | https://material-ui.com/             |
+| React Bootstrap          | Use for UI components           | https://react-bootstrap.github.io/   |
+| Font Awesome             | Use for font purpose            | https://fontawesome.com/             |
+
+
+
+
 ### Github Badges
 
 | Name           | Description 📓                  | Link ↘️                                               |
@@ -194,7 +208,8 @@
 | Justen Phelps     | Full Stack developer from Los Angeles, CA                                     | https://www.justenphelps.com                    |
 | Marcus Lindstedt  | -                                                                             | https://github.com/BerimboloEnterprises
 | Ahmed Ezzat	    | Android Developer from Alexandria, Eg                                         | https://github.com/AhmedMaghawry
-
+| Umar Aslam Nawab	    | Javascript Developer from Karachi,Pakistan
+| https://github.com/UmarAslamNawab
 ## License
 
 [![forthebadge](https://forthebadge.com/images/badges/cc-0.svg)](https://forthebadge.com)
