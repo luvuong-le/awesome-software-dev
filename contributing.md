@@ -10,6 +10,8 @@ Ensure your pull requests meets the following guidelines
 -   Keep descriptions short but descriptive
 -   Check for spelling and grammar
 -   Ensure markdown formatting is set and removes trailing whitespace
+-   Ensure there are no conflicts
+-   Add your name to the contributors section
 -   Pull request should describe what you added/changed and why
 -   Share your knowledge with other developers! It could be web development based or machine learning etc
 

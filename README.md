@@ -15,11 +15,13 @@
 -   [JS Resources](#js-resources)
 -   [📷 Visual Media Resources 📷](#visual-media-resources)
 -   [🖥 Back End Resources 🖥](#back-end-resources)
+-   [Infrastructure Resources](#infrastructure-resources)
 -   [🖌 Design Resources 🖌](#design-resources)
 -   [⏯ Youtube Channels ⏯](#youtube-channels)
 -   [📖 Interesting Reads 📖](#interesting-reads)
 -   [📛 Github Badges 📛](#github-badges)
 -   [🔗 Other Links 🔗](#other-links)
+-   [🌟 Contributors 🌟](#contributors)
 
 ### Code Editors
 
@@ -85,7 +87,7 @@
 
 **Places to look for Free Photos | Videos**
 
-| Name     | Description 📓           | Link ↘️                 |
+| Name     | Description 📓           | Link ↘️                  |
 | -------- | ------------------------ | ----------------------- |
 | Pexels   | Free Stock Photos        | https://www.pexels.com  |
 | Unsplash | High quality free images | https://unsplash.com    |
@@ -181,9 +183,10 @@
 
 ### Contributors
 
-| Name           | Description 📓                                                                | Link ↘️                                          |
-| -------------- | ----------------------------------------------------------------------------- | ----------------------------------------------- |
-| Justen Phelps  | Full Stack developer from Los Angeles, CA                                     | https://www.justenphelps.com                    |
+| Name              | Description 📓                                                                | Link ↘️                                          |
+| ----------------- | ----------------------------------------------------------------------------- | ----------------------------------------------- |
+| Justen Phelps     | Full Stack developer from Los Angeles, CA                                     | https://www.justenphelps.com                    |
+| Marcus Lindstedt  | -                                                                             | https://github.com/BerimboloEnterprises
 
 ## License
 
