@@ -23,7 +23,7 @@
 
 ### Code Editors
 
-| Name               | Description 📓                                         | Link ↘️                        |
+| Name               | Description 📓                                         | Link ↘️                         |
 | ------------------ | ------------------------------------------------------ | ------------------------------ |
 | Visual Studio Code | Lightweight but powerful code editor                   | https://code.visualstudio.com/ |
 | Brackets           | Code editor with focus on web development              | http://brackets.io)            |
@@ -34,7 +34,7 @@
 
 #### HTML Resources
 
-| Name             | Description 📓                         | Link ↘️                                     |
+| Name             | Description 📓                         | Link ↘️                                      |
 | ---------------- | -------------------------------------- | ------------------------------------------- |
 | Emmet Cheatsheet | Useful for learning emmet shortcuts    | https://websitesetup.org/html5-cheat-sheet/ |
 | Can I Use        | Cross browser compatibility            | https://caniuse.com/)                       |
@@ -42,7 +42,7 @@
 
 #### CSS Resources
 
-| Name                                | Description 📓                                                                             | Link ↘️                                                 |
+| Name                                | Description 📓                                                                             | Link ↘️                                                  |
 | ----------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------- |
 | CSS Icons                           | Useful for learning emmet shortcuts                                                        | https://cssicon.space/#/animate                         |
 | Animate.CSS                         | Cross browser compatibility                                                                | https://daneden.github.io/animate.css/                  |
@@ -61,24 +61,25 @@
 
 #### Javascript Resources
 
-| Name          | Description 📓                                                                                    | Link ↘️                                        |
-| ------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| Annyang       | Speech recognition JS Library                                                                     | https://github.com/TalAter/annyang             |
-| MixItUp       | Javascript Library for pagination                                                                 | https://www.kunkalabs.com/mixitup/             |
-| Scroll Reveal | Scroll reveal library                                                                             | https://scrollrevealjs.org/                    |
-| Socket IO     | Real Time Chat Engine                                                                             | https://socket.io/                             |
-| Hammer JS     | Add Touch Gestures                                                                                | https://hammerjs.github.io/                    |
-| Typed.js      | Typing Animation Library                                                                          | https://github.com/mattboldt/typed.js/         |
-| Swiper        | Javascript Slider                                                                                 | http://idangero.us/swiper/demos/               |
-| Chart JS      | Plugin to create charts                                                                           | https://www.chartjs.org/                       |
-| Quill JS      | Powerful Text Editor for developers                                                               | https://quilljs.com/                           |
-| Lity JS       | Responsive and Lightweight lightbox                                                               | https://sorgalla.com/lity/                     |
-| V-Fonts       | Variable Font Resources (Some are paid)                                                           | https://v-fonts.com/                           |
-| Datedropper   | Datepicker using JQuery                                                                           | http://felicegattuso.com/projects/datedropper/ |
-| Timedropper   | JQuery Plugin for a time picker                                                                   | http://felicegattuso.com/projects/timedropper/ |
-| Flatpickr     | Lightweight date and time picker                                                                  | https://flatpickr.js.org                       |
-| Nuxt JS       | Framework for creating Vue.js applications with server side rendering, static generation and more | https://nuxtjs.org/                            |
-| VuePress      | Static Site Generator powered with Vue JS                                                         | https://vuepress.vuejs.org/                    |
+| Name              | Description 📓                                                                                    | Link ↘️                                                |
+| -------------     | ------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| Annyang           | Speech recognition JS Library                                                                     | https://github.com/TalAter/annyang                    |
+| MixItUp           | Javascript Library for pagination                                                                 | https://www.kunkalabs.com/mixitup/                    |
+| Scroll Reveal     | Scroll reveal library                                                                             | https://scrollrevealjs.org/                           |
+| Socket IO         | Real Time Chat Engine                                                                             | https://socket.io/                                    |
+| Hammer JS         | Add Touch Gestures                                                                                | https://hammerjs.github.io/                           |
+| Typed.js          | Typing Animation Library                                                                          | https://github.com/mattboldt/typed.js/                |
+| Swiper            | Javascript Slider                                                                                 | http://idangero.us/swiper/demos/                      |
+| Chart JS          | Plugin to create charts                                                                           | https://www.chartjs.org/                              |
+| Quill JS          | Powerful Text Editor for developers                                                               | https://quilljs.com/                                  |
+| Lity JS           | Responsive and Lightweight lightbox                                                               | https://sorgalla.com/lity/                            |
+| V-Fonts           | Variable Font Resources (Some are paid)                                                           | https://v-fonts.com/                                  |
+| Datedropper       | Datepicker using JQuery                                                                           | http://felicegattuso.com/projects/datedropper/        |
+| Timedropper       | JQuery Plugin for a time picker                                                                   | http://felicegattuso.com/projects/timedropper/        |
+| Flatpickr         | Lightweight date and time picker                                                                  | https://flatpickr.js.org                              |
+| Nuxt JS           | Framework for creating Vue.js applications with server side rendering, static generation and more | https://nuxtjs.org/                                   |
+| VuePress          | Static Site Generator powered with Vue JS                                                         | https://vuepress.vuejs.org/                           |
+| Google Maps React | Google Maps API & React Integration                                                               | https://github.com/fullstackreact/google-maps-react   |
 
 #### Visual Media Resources
 
@@ -93,7 +94,7 @@
 
 **Places to look for Free Icons**
 
-| Name                  | Description 📓                  | Link ↘️                          |
+| Name                  | Description 📓                  | Link ↘️                           |
 | --------------------- | ------------------------------- | -------------------------------- |
 | FlatIcon              | Free Vector Icons               | https://www.flaticon.com/        |
 | Font Awesome          | Font and icon toolkit           | https://fontawesome.com/         |
@@ -106,7 +107,7 @@
 
 ### Back End Resources
 
-| Name      | Description 📓                                                           | Link ↘️                     |
+| Name      | Description 📓                                                           | Link ↘️                      |
 | --------- | ------------------------------------------------------------------------ | --------------------------- |
 | Postman   | API development environment                                              | https://www.getpostman.com/ |
 | NPM       | Search/Discover Node Modules                                             | https://www.npmjs.com/      |
@@ -117,7 +118,7 @@
 
 ### Design Resources
 
-| Name                | Description 📓                                   | Link ↘️                                          |
+| Name                | Description 📓                                   | Link ↘️                                           |
 | ------------------- | ------------------------------------------------ | ------------------------------------------------ |
 | Canva               | Create graphic designs online                    | https://www.canva.com                            |
 | Dribble             | Inspiration for designers                        | https://dribbble.com/                            |
@@ -130,10 +131,11 @@
 | Figma               | Collaborative Design tool with prototyping       | https://www.figma.com/                           |
 | Sketch              | Design tool exclusive to MacOS                   | https://www.sketchapp.com/                       |
 | Gravit Designer     | Cross Platform Design Tool                       | https://www.designer.io/                         |
+| Coolors             | Color Scheme Generator                           | https://coolors.co/                              |
 
 ### Youtube Channels
 
-| Name                | Description 📓                                           | Link ↘️                                                  |
+| Name                | Description 📓                                           | Link ↘️                                                   |
 | ------------------- | -------------------------------------------------------- | -------------------------------------------------------- |
 | Traversy Media      | Web Development & Programming Tutorials                  | https://www.youtube.com/user/TechGuyWeb                  |
 | dcode               | Javascript Tutorials and More                            | https://www.youtube.com/channel/UCjX0FtIZBBVD3YoCcxnDC4g |
@@ -153,7 +155,7 @@
 
 ### Github Badges
 
-| Name           | Description 📓                  | Link ↘️                                              |
+| Name           | Description 📓                  | Link ↘️                                               |
 | -------------- | ------------------------------- | ---------------------------------------------------- |
 | Code Coverage  | Code Coverage                   | https://coveralls.io/                                |
 | David DM       | Keep track of dependencies      | https://david-dm.org                                 |
@@ -162,7 +164,7 @@
 
 ### Other Links
 
-| Name           | Description 📓                                                                | Link ↘️                                         |
+| Name           | Description 📓                                                                | Link ↘️                                          |
 | -------------- | ----------------------------------------------------------------------------- | ----------------------------------------------- |
 | Stack Overflow | Every Developers Friend                                                       | https://stackoverflow.com/                      |
 | Sitepoint      | Large amounts of web development articles                                     | https://www.sitepoint.com/                      |
@@ -170,6 +172,12 @@
 | w3schools      | Online learning resource for HTML, CSS, JS                                    | https://www.w3schools.com/html/html_scripts.asp |
 | CodeAcademy    | Learn different languages, responsive design, frameworks and much more online | https://www.codecademy.com/                     |
 | Codepen        | Front-End Development Playground and social environment to share works        | https://codepen.io/                             |
+
+### Contributors
+
+| Name           | Description 📓                                                                | Link ↘️                                          |
+| -------------- | ----------------------------------------------------------------------------- | ----------------------------------------------- |
+| Justen Phelps  | Full Stack developer from Los Angeles, CA                                     | https://www.justenphelps.com                    |
 
 ## License
 
