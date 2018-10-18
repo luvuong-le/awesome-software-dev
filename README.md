@@ -31,6 +31,7 @@
 | Brackets           | Code editor with focus on web development              | http://brackets.io)            |
 | Sublime Text       | A sophisticated text editor for code, markup and prose | https://www.sublimetext.com/   |
 | Atom               | Modern code editor with many plugins                   | https://nodejs.org/en/         |
+| Android Studio     | An powerfull IDE for Developing Android Applications   | https://developer.android.com/studio/ |
 
 ### Front End Resources
 
@@ -93,6 +94,7 @@
 | Unsplash | High quality free images | https://unsplash.com    |
 | Videovo  | Free Stock Videos        | https://www.videvo.net/ |
 | Pixabay  | More free images         | https://pixabay.com/en/ |
+| StockSnap| High resolution free imgs| https://stocksnap.io/	|
 
 **Places to look for Free Icons**
 
@@ -106,6 +108,7 @@
 | Icons8                | Free Flat Icons                 | https://icons8.com/              |
 | Material Design Icons | Free SVG Material Icons         | https://material.io/tools/icons/ |
 | World Vector Logos    | Free SVG Vector Logos           | https://worldvectorlogo.com/     |
+| Icon Finder    	| A Free search engine for icons  | https://www.iconfinder.com/	     |
 
 ### Back End Resources
 
@@ -160,6 +163,8 @@
 | Program With Erik   | Programming Tutorials with Frameworks                    | https://www.youtube.com/channel/UCshZ3rdoCLjDYuTR_RBubzw |
 | DesignCourse        | Tutorials using Adobe XD, Photoshop and others           | https://www.youtube.com/user/DesignCourse                |
 | Coding Tech         | Frequent uploads of tech talks                           | https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ |
+| sentdex	      | Python Programming tutorials, machine learning and data analysis | https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ |
+| Derek Banas         |  Tutorials based on user requests                        | https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw |
 
 ### Github Badges
 
@@ -169,6 +174,7 @@
 | David DM       | Keep track of dependencies      | https://david-dm.org                                 |
 | For the badge  | Extra badges for github repos   | https://forthebadge.com                              |
 | License Badges | Badges for licenses such as MIT | https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba |
+| Awesome Android UI  | A curated list of awesome Android UI/UX libraries| https://github.com/wasabeef/awesome-android-ui   |
 
 ### Other Links
 
@@ -187,6 +193,7 @@
 | ----------------- | ----------------------------------------------------------------------------- | ----------------------------------------------- |
 | Justen Phelps     | Full Stack developer from Los Angeles, CA                                     | https://www.justenphelps.com                    |
 | Marcus Lindstedt  | -                                                                             | https://github.com/BerimboloEnterprises
+| Ahmed Ezzat	    | Android Developer from Alexandria, Eg                                         | https://github.com/AhmedMaghawry
 
 ## License
 
