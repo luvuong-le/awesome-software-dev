@@ -83,7 +83,7 @@
 | Nuxt JS           | Framework for creating Vue.js applications with server side rendering, static generation and more | https://nuxtjs.org/                                   |
 | VuePress          | Static Site Generator powered with Vue JS                                                         | https://vuepress.vuejs.org/                           |
 | Google Maps React | Google Maps API & React Integration                                                               | https://github.com/fullstackreact/google-maps-react   |
-| Johnny-Five       | Javascript Robotics & IoT Platform                                                                | https://johnny-five.io/                               |
+| Johnny-Five       | Javascript Robotics & IoT Platform                                                                | http://johnny-five.io/                                |
 
 
 #### Places to look for React Resources  ####
