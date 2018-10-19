@@ -32,6 +32,7 @@
 | Sublime Text       | A sophisticated text editor for code, markup and prose | https://www.sublimetext.com/   |
 | Atom               | Modern code editor with many plugins                   | https://nodejs.org/en/         |
 | Android Studio     | An powerfull IDE for Developing Android Applications   | https://developer.android.com/studio/ |
+| Falcon C++         | Falcon C++ is a IDE that was developed to turn development of C++ applications easily.   | http://falconcpp.sourceforge.net/ |
 
 ### Front End Resources
 
@@ -203,6 +204,7 @@
 | Marcus Lindstedt  | -                                                                             | https://github.com/BerimboloEnterprises         |
 | Ahmed Ezzat	    | Android Developer from Alexandria, Eg                                         | https://github.com/AhmedMaghawry                |
 | Umar Aslam Nawab	| Javascript Developer from Karachi,Pakistan                                    | https://github.com/UmarAslamNawab               |
+| Gabriel Araujo 	| A computer science student, Brazil                                            | https://github.com/gabriel-arauj                |
 
 ## License
 
