@@ -176,6 +176,7 @@
 | sentdex	      | Python Programming tutorials, machine learning and data analysis | https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ |
 | Derek Banas         |  Tutorials based on user requests                        | https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw |
 | Dev Tips            |  Weekly show to learn programming                        | https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ |
+| The Coding Train    |  Programming tutorials and in-depth algorithm explanations | https://www.youtube.com/user/shiffman
 
 ### Github Badges
 
