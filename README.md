@@ -84,14 +84,18 @@
 | Nuxt JS           | Framework for creating Vue.js applications with server side rendering, static generation and more | https://nuxtjs.org/                                 |
 | VuePress          | Static Site Generator powered with Vue JS                                                         | https://vuepress.vuejs.org/                         |
 | Google Maps React | Google Maps API & React Integration                                                               | https://github.com/fullstackreact/google-maps-react |
-| Johnny-Five       | Javascript Robotics & IoT Platform                                                                | http://johnny-five.io/                              |
+| Johnny-Five       | Javascript Robotics & IoT Platform                                                                | http://johnny-five.io/                                            |
+| Yup               | Javascript Object Schema Validator and Object Parser                                              | https://github.com/jquense/yup                      |
+
 
 #### Places to look for React Resources
 
-| Name            | Description 📓        | Link ↘️                            |
-| --------------- | --------------------- | ---------------------------------- |
-| Material-UI     | Use for UI components | https://material-ui.com/           |
-| React Bootstrap | Use for UI components | https://react-bootstrap.github.io/ |
+| Name             | Description 📓          | Link ↘️                            |
+| ---------------  | ---------------------   | ---------------------------------- |
+| Material-UI      | Use for UI components   | https://material-ui.com/           |
+| React Bootstrap  | Use for UI components   | https://react-bootstrap.github.io/ |
+| Formik           | Form building in React  | https://jaredpalmer.com/formik     |
+| React Final Form | Form building in React  | https://jaredpalmer.com/formik     |
 
 #### Visual Media Resources
 
