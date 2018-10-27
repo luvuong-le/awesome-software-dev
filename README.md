@@ -213,6 +213,7 @@
 | Gabriel Araujo   | A computer science student, Brazil         | https://github.com/gabriel-arauj        |
 | Kate Sy          | Web Developer from Melbourne, Australia    | https://github.com/katesyberspace       |
 | Ethan Rockwood   | -                                          | https://github.com/drockwood94          |
+| Linda Lai        | Web Developer from Melbourne, Australia    | https://github.com/linda-lai            |
 
 ## License
 
