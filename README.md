@@ -101,13 +101,14 @@
 
 **Places to look for Free Photos | Videos**
 
-| Name      | Description 📓            | Link ↘️                 |
-| --------- | ------------------------- | ----------------------- |
-| Pexels    | Free Stock Photos         | https://www.pexels.com  |
-| Unsplash  | High quality free images  | https://unsplash.com    |
-| Videovo   | Free Stock Videos         | https://www.videvo.net/ |
-| Pixabay   | More free images          | https://pixabay.com/en/ |
-| StockSnap | High resolution free imgs | https://stocksnap.io/   |
+| Name         | Description 📓             | Link ↘️                 |
+| ------------ | -------------------------- | ------------------------- |
+| Pexels       | Free Stock Photos          | https://www.pexels.com    |
+| Unsplash     | High quality free images   | https://unsplash.com      |
+| Videovo      | Free Stock Videos          | https://www.videvo.net/   |
+| Pixabay      | More free images           | https://pixabay.com/en/   |
+| StockSnap    | High resolution free imgs  | https://stocksnap.io/     |
+| Lorem Picsum | Placeholder Images by Size | https://picsum.photos/    |
 
 **Places to look for Free Icons**
 
@@ -145,8 +146,8 @@
 | Name                | Description 📓                                   | Link ↘️                                          |
 | ------------------- | ------------------------------------------------ | ------------------------------------------------ |
 | Canva               | Create graphic designs online                    | https://www.canva.com                            |
-| Dribble             | Inspiration for designers                        | https://dribbble.com/                            |
-| Behanced            | Showcase and Look at other peoples creative work | https://www.behance.net/                         |
+| Dribbble            | Inspiration for designers                        | https://dribbble.com/                            |
+| Behance             | Showcase and Look at other peoples creative work | https://www.behance.net/                         |
 | Creative Portfolios | A curated list of creative portfolios            | http://www.creative-portfolios.com/              |
 | Adobe XD            | Adobe XD for UI Designs, free version available  | https://www.adobe.com/au/products/xd.html        |
 | Photoshop           | Photo Manipulation Software                      | https://www.adobe.com/au/products/photoshop.html |
@@ -156,6 +157,8 @@
 | Sketch              | Design tool exclusive to MacOS                   | https://www.sketchapp.com/                       |
 | Gravit Designer     | Cross Platform Design Tool                       | https://www.designer.io/                         |
 | Coolors             | Color Scheme Generator                           | https://coolors.co/                              |
+| Color Safe          | Create Web Accessible Color Palettes             | http://colorsafe.co/                             |
+| Awwwards            | Best Web Design Trends                           | https://www.awwwards.com/                        |
 
 ### Youtube Channels
 
