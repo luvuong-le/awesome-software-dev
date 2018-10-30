@@ -183,6 +183,7 @@
 | Derek Banas         | Tutorials based on user requests                                 | https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw |
 | Dev Tips            | Weekly show to learn programming                                 | https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ |
 | The Coding Train    | Programming tutorials and in-depth algorithm explanations        | https://www.youtube.com/user/shiffman                    |
+| The new Boston      | Programming tutorials in different languages and frameworks      | https://www.youtube.com/user/thenewboston                |
 
 ### Github Badges
 
@@ -217,6 +218,7 @@
 | Kate Sy          | Web Developer from Melbourne, Australia    | https://github.com/katesyberspace       |
 | Ethan Rockwood   | -                                          | https://github.com/drockwood94          |
 | Linda Lai        | Web Developer from Melbourne, Australia    | https://github.com/linda-lai            |
+| Muhammed Essam   | Junior Data scientist from Egypt           | https://github.com/MuhammedKhamis       |
 
 ## License
 
