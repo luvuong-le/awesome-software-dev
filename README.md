@@ -216,7 +216,7 @@
 | Umar Aslam Nawab | Javascript Developer from Karachi,Pakistan | https://github.com/UmarAslamNawab       |
 | Gabriel Araujo   | A computer science student, Brazil         | https://github.com/gabriel-arauj        |
 | Kate Sy          | Web Developer from Melbourne, Australia    | https://github.com/katesyberspace       |
-| Ethan Rockwood   | -                                          | https://github.com/drockwood94          |
+| Ethan Rockwood   | Windows Administrator from Macomb, Il      | https://github.com/drockwood94          |
 | Linda Lai        | Web Developer from Melbourne, Australia    | https://github.com/linda-lai            |
 | Muhammed Essam   | Junior Data scientist from Egypt           | https://github.com/MuhammedKhamis       |
 
