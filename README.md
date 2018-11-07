@@ -8,20 +8,20 @@
 
 ### Table of Contents
 
--   [📓 Text Editors 📓](#text-editors)
--   [Front-End Resources](#front-end-resources)
--   [HTML Resources](#html-resources)
--   [CSS Resources](#css-resources)
--   [JS Resources](#js-resources)
--   [📷 Visual Media Resources 📷](#visual-media-resources)
--   [🖥 Back End Resources 🖥](#back-end-resources)
--   [Infrastructure Resources](#infrastructure-resources)
--   [🖌 Design Resources 🖌](#design-resources)
--   [⏯ Youtube Channels ⏯](#youtube-channels)
--   [📖 Interesting Reads 📖](#interesting-reads)
--   [📛 Github Badges 📛](#github-badges)
--   [🔗 Other Links 🔗](#other-links)
--   [🌟 Contributors 🌟](#contributors)
+- [📓 Text Editors 📓](#text-editors)
+- [Front-End Resources](#front-end-resources)
+- [HTML Resources](#html-resources)
+- [CSS Resources](#css-resources)
+- [JS Resources](#js-resources)
+- [📷 Visual Media Resources 📷](#visual-media-resources)
+- [🖥 Back End Resources 🖥](#back-end-resources)
+- [Infrastructure Resources](#infrastructure-resources)
+- [🖌 Design Resources 🖌](#design-resources)
+- [⏯ Youtube Channels ⏯](#youtube-channels)
+- [📖 Interesting Reads 📖](#interesting-reads)
+- [📛 Github Badges 📛](#github-badges)
+- [🔗 Other Links 🔗](#other-links)
+- [🌟 Contributors 🌟](#contributors)
 
 ### Code Editors
 
@@ -84,45 +84,50 @@
 | Nuxt JS           | Framework for creating Vue.js applications with server side rendering, static generation and more | https://nuxtjs.org/                                 |
 | VuePress          | Static Site Generator powered with Vue JS                                                         | https://vuepress.vuejs.org/                         |
 | Google Maps React | Google Maps API & React Integration                                                               | https://github.com/fullstackreact/google-maps-react |
-| Johnny-Five       | Javascript Robotics & IoT Platform                                                                | http://johnny-five.io/                                            |
+| Johnny-Five       | Javascript Robotics & IoT Platform                                                                | http://johnny-five.io/                              |
 | Yup               | Javascript Object Schema Validator and Object Parser                                              | https://github.com/jquense/yup                      |
-
 
 #### Places to look for React Resources
 
-| Name             | Description 📓          | Link ↘️                            |
-| ---------------  | ---------------------   | ---------------------------------- |
-| Material-UI      | Use for UI components   | https://material-ui.com/           |
-| React Bootstrap  | Use for UI components   | https://react-bootstrap.github.io/ |
-| Formik           | Form building in React  | https://jaredpalmer.com/formik     |
-| React Final Form | Form building in React  | https://jaredpalmer.com/formik     |
+| Name             | Description 📓         | Link ↘️                            |
+| ---------------- | ---------------------- | ---------------------------------- |
+| Material-UI      | Use for UI components  | https://material-ui.com/           |
+| React Bootstrap  | Use for UI components  | https://react-bootstrap.github.io/ |
+| Formik           | Form building in React | https://jaredpalmer.com/formik     |
+| React Final Form | Form building in React | https://jaredpalmer.com/formik     |
 
 #### Visual Media Resources
 
 **Places to look for Free Photos | Videos**
 
 | Name         | Description 📓             | Link ↘️                 |
-| ------------ | -------------------------- | ------------------------- |
-| Pexels       | Free Stock Photos          | https://www.pexels.com    |
-| Unsplash     | High quality free images   | https://unsplash.com      |
-| Videovo      | Free Stock Videos          | https://www.videvo.net/   |
-| Pixabay      | More free images           | https://pixabay.com/en/   |
-| StockSnap    | High resolution free imgs  | https://stocksnap.io/     |
-| Lorem Picsum | Placeholder Images by Size | https://picsum.photos/    |
+| ------------ | -------------------------- | ----------------------- |
+| Pexels       | Free Stock Photos          | https://www.pexels.com  |
+| Unsplash     | High quality free images   | https://unsplash.com    |
+| Videovo      | Free Stock Videos          | https://www.videvo.net/ |
+| Pixabay      | More free images           | https://pixabay.com/en/ |
+| StockSnap    | High resolution free imgs  | https://stocksnap.io/   |
+| Lorem Picsum | Placeholder Images by Size | https://picsum.photos/  |
 
 **Places to look for Free Icons**
 
-| Name                  | Description 📓                  | Link ↘️                          |
-| --------------------- | ------------------------------- | -------------------------------- |
-| FlatIcon              | Free Vector Icons               | https://www.flaticon.com/        |
-| Font Awesome          | Font and icon toolkit           | https://fontawesome.com/         |
-| Linea Icons           | Free iconset by Dario Ferrando  | http://linea.io/                 |
-| IonIcons              | Open Source Icons               | http://ionicons.com/             |
-| Dev Icons             | Icons for programming languages | http://konpa.github.io/devicon/  |
-| Icons8                | Free Flat Icons                 | https://icons8.com/              |
-| Material Design Icons | Free SVG Material Icons         | https://material.io/tools/icons/ |
-| World Vector Logos    | Free SVG Vector Logos           | https://worldvectorlogo.com/     |
-| Icon Finder           | A Free search engine for icons  | https://www.iconfinder.com/      |
+| Name                  | Description 📓                  | Link ↘️                                                              |
+| --------------------- | ------------------------------- | -------------------------------------------------------------------- |
+| FlatIcon              | Free Vector Icons               | https://www.flaticon.com/                                            |
+| Font Awesome          | Font and icon toolkit           | https://fontawesome.com/                                             |
+| Linea Icons           | Free iconset by Dario Ferrando  | http://linea.io/                                                     |
+| Linear Icons          | 170 Free Icons                  | https://linearicons.com/free                                         |
+| IonIcons              | Open Source Icons               | http://ionicons.com/                                                 |
+| Feather Icons         | Open Source Icons               | https://feathericons.com/                                            |
+| Dev Icons             | Icons for programming languages | http://konpa.github.io/devicon/                                      |
+| Icons8                | Free Flat Icons                 | https://icons8.com/                                                  |
+| Material Design Icons | Free SVG Material Icons         | https://material.io/tools/icons/                                     |
+| World Vector Logos    | Free SVG Vector Logos           | https://worldvectorlogo.com/                                         |
+| Icon Finder           | A Free search engine for icons  | https://www.iconfinder.com/                                          |
+| Box Icons             | High Quality Web Icons          | https://boxicons.com/                                                |
+| Ico Moon              | 490 Free Icons                  | https://icomoon.io/#icons-icomoon                                    |
+| Free Icons Dribble    | Free Icons By Eleken            | https://dribbble.com/shots/4666022-Free-Icons-Set                    |
+| Free Icons Dribble #2 | Free Icons By Alexandru Stoica  | https://dribbble.com/shots/2888226-1800-Free-Minimal-Icon-Pack-20x20 |
 
 ### Back End Resources
 
