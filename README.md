@@ -206,10 +206,11 @@
 | -------------- | ----------------------------------------------------------------------------- | ----------------------------------------------- |
 | Stack Overflow | Every Developers Friend                                                       | https://stackoverflow.com/                      |
 | Sitepoint      | Large amounts of web development articles                                     | https://www.sitepoint.com/                      |
-| Awwapp         | Collaborative whiteboard                                                      | https://awwapp.com/                             |
+| Awwapp         | Collaborative whiteboard                                                      | https://awwapp.com/                              |
 | w3schools      | Online learning resource for HTML, CSS, JS                                    | https://www.w3schools.com/html/html_scripts.asp |
-| CodeAcademy    | Learn different languages, responsive design, frameworks and much more online | https://www.codecademy.com/                     |
-| Codepen        | Front-End Development Playground and social environment to share works        | https://codepen.io/                             |
+| CodeAcademy    | Learn different languages, responsive design, frameworks and much more online | https://www.codecademy.com/                      |
+| Codepen        | Front-End Development Playground and social environment to share works        | https://codepen.io/                              |
+| Scrimba        | Learn code through an interactive screencast                                  | https://scrimba.com/                            |
 
 ### Contributors
 
