@@ -167,28 +167,32 @@
 
 ### Youtube Channels
 
-| Name                | Description 📓                                                   | Link ↘️                                                  |
-| ------------------- | ---------------------------------------------------------------- | -------------------------------------------------------- |
-| Traversy Media      | Web Development & Programming Tutorials                          | https://www.youtube.com/user/TechGuyWeb                  |
-| dcode               | Javascript Tutorials and More                                    | https://www.youtube.com/channel/UCjX0FtIZBBVD3YoCcxnDC4g |
-| Academind           | Online Education                                                 | https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w |
-| Fun Fun Function    | Advanced Javascript Concepts and Tutorials                       | https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q |
-| LearnWebCode        | Learn HTML, CSS, JQuery and Wordpress development                | https://www.youtube.com/channel/UCHRp19HU7Y2LwfI0Ai6WAGQ |
-| Lets Build That App | Swift Tutorials & Node JS and App Reviews                        | https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA |
-| mmtuts              | Multimedia & Web Design & Development Tutorials                  | https://www.youtube.com/channel/UCzyuZJ8zZ-Lhfnz41DG5qLw |
-| The Net Ninja       | Sharpen Your Web Skills                                          | https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg |
-| Udemy Tech          | Programming Tutorials / Courses                                  | https://www.youtube.com/channel/UCU6e4MJtvlcX5DBLP1cq8hQ |
-| whatsdev            | Wide range of programming tutorials                              | https://www.youtube.com/channel/UC0tRdbXVDbhaRvZPKsRgmxg |
-| KevinPowell         | Weekly Web Development & Design (Tips Tricks &Tutorials)         | https://www.youtube.com/user/KepowOb                     |
-| Layout Land         | Amazing CSS Knowledge                                            | https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag |
-| Program With Erik   | Programming Tutorials with Frameworks                            | https://www.youtube.com/channel/UCshZ3rdoCLjDYuTR_RBubzw |
-| DesignCourse        | Tutorials using Adobe XD, Photoshop and others                   | https://www.youtube.com/user/DesignCourse                |
-| Coding Tech         | Frequent uploads of tech talks                                   | https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ |
-| sentdex             | Python Programming tutorials, machine learning and data analysis | https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ |
-| Derek Banas         | Tutorials based on user requests                                 | https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw |
-| Dev Tips            | Weekly show to learn programming                                 | https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ |
-| The Coding Train    | Programming tutorials and in-depth algorithm explanations        | https://www.youtube.com/user/shiffman                    |
-| The new Boston      | Programming tutorials in different languages and frameworks      | https://www.youtube.com/user/thenewboston                |
+| Name                | Description 📓                                                   | Link ↘️                                                               |
+| ------------------- | ---------------------------------------------------------------- | -------------------------------------------------------------------- |
+| Traversy Media      | Web Development & Programming Tutorials                          | https://www.youtube.com/user/TechGuyWeb                              |
+| dcode               | Javascript Tutorials and More                                    | https://www.youtube.com/channel/UCjX0FtIZBBVD3YoCcxnDC4g             |
+| Academind           | Online Education                                                 | https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w             |
+| Fun Fun Function    | Advanced Javascript Concepts and Tutorials                       | https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q             |
+| LearnWebCode        | Learn HTML, CSS, JQuery and Wordpress development                | https://www.youtube.com/channel/UCHRp19HU7Y2LwfI0Ai6WAGQ             |
+| Lets Build That App | Swift Tutorials & Node JS and App Reviews                        | https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA             |
+| mmtuts              | Multimedia & Web Design & Development Tutorials                  | https://www.youtube.com/channel/UCzyuZJ8zZ-Lhfnz41DG5qLw             |
+| The Net Ninja       | Sharpen Your Web Skills                                          | https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg             |
+| Udemy Tech          | Programming Tutorials / Courses                                  | https://www.youtube.com/channel/UCU6e4MJtvlcX5DBLP1cq8hQ             |
+| whatsdev            | Wide range of programming tutorials                              | https://www.youtube.com/channel/UC0tRdbXVDbhaRvZPKsRgmxg             |
+| KevinPowell         | Weekly Web Development & Design (Tips Tricks &Tutorials)         | https://www.youtube.com/user/KepowOb                                 |
+| Layout Land         | Amazing CSS Knowledge                                            | https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag             |
+| Program With Erik   | Programming Tutorials with Frameworks                            | https://www.youtube.com/channel/UCshZ3rdoCLjDYuTR_RBubzw             |
+| DesignCourse        | Tutorials using Adobe XD, Photoshop and others                   | https://www.youtube.com/user/DesignCourse                            |
+| Coding Tech         | Frequent uploads of tech talks                                   | https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ             |
+| sentdex             | Python Programming tutorials, machine learning and data analysis | https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ             |
+| Derek Banas         | Tutorials based on user requests                                 | https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw             |
+| Dev Tips            | Weekly show to learn programming                                 | https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ             |
+| The Coding Train    | Programming tutorials and in-depth algorithm explanations        | https://www.youtube.com/user/shiffman                                |
+| The new Boston      | Programming tutorials in different languages and frameworks      | https://www.youtube.com/user/thenewboston                            |
+| freeCodeCamp        | Online courses, programming projects, and interview preparation  | https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/featured    |
+| LevelUp Tutorials   | Video tutorials by Scott Tolinski                                | https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg             |
+| Online Tutorials    | HTML, CSS and JavaScript Tutorials                               | https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog             |
+| Leafie Tutoring     | Online Tutoring                                                  | https://www.youtube.com/channel/UCiw8awF7g3QO36srPajIHJA             |
 
 ### Github Badges
 
@@ -206,10 +210,10 @@
 | -------------- | ----------------------------------------------------------------------------- | ----------------------------------------------- |
 | Stack Overflow | Every Developers Friend                                                       | https://stackoverflow.com/                      |
 | Sitepoint      | Large amounts of web development articles                                     | https://www.sitepoint.com/                      |
-| Awwapp         | Collaborative whiteboard                                                      | https://awwapp.com/                              |
+| Awwapp         | Collaborative whiteboard                                                      | https://awwapp.com/                             |
 | w3schools      | Online learning resource for HTML, CSS, JS                                    | https://www.w3schools.com/html/html_scripts.asp |
-| CodeAcademy    | Learn different languages, responsive design, frameworks and much more online | https://www.codecademy.com/                      |
-| Codepen        | Front-End Development Playground and social environment to share works        | https://codepen.io/                              |
+| CodeAcademy    | Learn different languages, responsive design, frameworks and much more online | https://www.codecademy.com/                     |
+| Codepen        | Front-End Development Playground and social environment to share works        | https://codepen.io/                             |
 | Scrimba        | Learn code through an interactive screencast                                  | https://scrimba.com/                            |
 
 ### Contributors
