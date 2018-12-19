@@ -100,14 +100,15 @@
 
 **Places to look for Free Photos | Videos**
 
-| Name         | Description 📓             | Link ↘️                 |
-| ------------ | -------------------------- | ----------------------- |
-| Pexels       | Free Stock Photos          | https://www.pexels.com  |
-| Unsplash     | High quality free images   | https://unsplash.com    |
-| Videovo      | Free Stock Videos          | https://www.videvo.net/ |
-| Pixabay      | More free images           | https://pixabay.com/en/ |
-| StockSnap    | High resolution free imgs  | https://stocksnap.io/   |
-| Lorem Picsum | Placeholder Images by Size | https://picsum.photos/  |
+| Name         | Description 📓                   | Link ↘️                 |
+| ------------ | -------------------------------- | ----------------------- |
+| Pexels       | Free Stock Photos                | https://www.pexels.com  |
+| Unsplash     | High quality free images         | https://unsplash.com    |
+| Videovo      | Free Stock Videos                | https://www.videvo.net/ |
+| Pixabay      | More free images                 | https://pixabay.com/en/ |
+| StockSnap    | High resolution free imgs        | https://stocksnap.io/   |
+| Lorem Picsum | Placeholder Images by Size       | https://picsum.photos/  |
+| Undraw       | Beauitful SVG open source images | https://undraw.co/      |
 
 **Places to look for Free Icons**
 
