@@ -223,7 +223,7 @@
 | Codepen        | Front-End Development Playground and social environment to share works        | https://codepen.io/                             |
 | Scrimba        | Learn code through an interactive screencast                                  | https://scrimba.com/                            |
 | Cody House     | HTML, CSS, JS experiments                                                     | https://codyhouse.co/library                          |
-| Codrops        | Collection of articles, tutorials for web development and design              | https://codyhouse.co/library                          |
+| Codrops        | Collection of articles, tutorials for web development and design              | https://tympanus.net/codrops/                         |
 | Waka Time      | Time tracking for programmers                                                 | https://wakatime.com/                            |
 
 ### Contributors
