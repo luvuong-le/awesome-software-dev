@@ -86,6 +86,8 @@
 | Google Maps React | Google Maps API & React Integration                                                               | https://github.com/fullstackreact/google-maps-react |
 | Johnny-Five       | Javascript Robotics & IoT Platform                                                                | http://johnny-five.io/                              |
 | Yup               | Javascript Object Schema Validator and Object Parser                                              | https://github.com/jquense/yup                      |
+| Static Gen        | List of static site generators for JAMstack Sites                                                 | https://www.staticgen.com/                          |
+| GraphQL           | Query Language for APIs                                                                           | https://graphql.org/                                |
 
 #### Places to look for React Resources
 
@@ -168,6 +170,7 @@
 | Color Safe          | Create Web Accessible Color Palettes             | http://colorsafe.co/                             |
 | Awwwards            | Best Web Design Trends                           | https://www.awwwards.com/                        |
 | Yellow Images 360   | PNG Images 360 (Paid)                            | https://yellowimages.com/yellow-images-360/      |
+| Daily UI            | Improve your UI skills daily                     | http://www.dailyui.co/                           |
 
 ### Youtube Channels
 
@@ -219,6 +222,9 @@
 | CodeAcademy    | Learn different languages, responsive design, frameworks and much more online | https://www.codecademy.com/                     |
 | Codepen        | Front-End Development Playground and social environment to share works        | https://codepen.io/                             |
 | Scrimba        | Learn code through an interactive screencast                                  | https://scrimba.com/                            |
+| Cody House     | HTML, CSS, JS experiments                                                     | https://codyhouse.co/library                          |
+| Codrops        | Collection of articles, tutorials for web development and design              | https://codyhouse.co/library                          |
+| Waka Time      | Time tracking for programmers                                                 | https://wakatime.com/                            |
 
 ### Contributors
 
