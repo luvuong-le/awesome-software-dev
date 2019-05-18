@@ -18,7 +18,8 @@
 - [Infrastructure Resources](#infrastructure-resources)
 - [🖌 Design Resources 🖌](#design-resources)
 - [⏯ Youtube Channels ⏯](#youtube-channels)
-- [📖 Interesting Reads 📖](#interesting-reads)
+- [Recommended Courses](#recommended-courses)
+- [📖 Articles/Blog Posts 📖](#interesting-reads)
 - [📛 Github Badges 📛](#github-badges)
 - [🔗 Other Links 🔗](#other-links)
 - [🌟 Contributors 🌟](#contributors)
@@ -160,6 +161,7 @@
 | Creative Portfolios | A curated list of creative portfolios            | http://www.creative-portfolios.com/              |
 | Adobe XD            | Adobe XD for UI Designs, free version available  | https://www.adobe.com/au/products/xd.html        |
 | Photoshop           | Photo Manipulation Software                      | https://www.adobe.com/au/products/photoshop.html |
+| PhotoPea            | Online Photo Manipulation Software               | https://www.photopea.com/                        |
 | Artboard Studio     | Create Product Mockups                           | https://artboard.studio/                         |
 | Collect UI          | Collection of User Interface Designs             | http://collectui.com/                            |
 | UI Movement         | More UI design inspirations                      | https://uimovement.com/                          |
@@ -200,6 +202,11 @@
 | LevelUp Tutorials   | Video tutorials by Scott Tolinski                                | https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg             |
 | Online Tutorials    | HTML, CSS and JavaScript Tutorials                               | https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog             |
 | Leafie Tutoring     | Online Tutoring                                                  | https://www.youtube.com/channel/UCiw8awF7g3QO36srPajIHJA             |
+
+### Recommended Courses
+
+| Name               | Description 📓                                    | Link ↘️                                              |
+| ------------------ | ------------------------------------------------- | ---------------------------------------------------- |
 
 ### Github Badges
 
