@@ -19,7 +19,7 @@
 - [🖌 Design Resources 🖌](#design-resources)
 - [⏯ Youtube Channels ⏯](#youtube-channels)
 - [Recommended Courses](#recommended-courses)
-- [📖 Articles/Blog Posts 📖](#interesting-reads)
+- [📖 Articles/Blog Posts 📖](#educational-reads)
 - [📛 Github Badges 📛](#github-badges)
 - [🔗 Other Links 🔗](#other-links)
 - [🌟 Contributors 🌟](#contributors)
@@ -205,8 +205,20 @@
 
 ### Recommended Courses
 
-| Name               | Description 📓                                    | Link ↘️                                              |
+| Teacher            | Course Name 📓                                    | Link ↘️                                              |
 | ------------------ | ------------------------------------------------- | ---------------------------------------------------- |
+| Andrew Mead        | The Complete Node.JS Developer Course             | https://www.udemy.com/the-complete-nodejs-developer-course-2/                      |
+| Brad Traversy      | React Front To Back                               | https://www.udemy.com/course/react-front-to-back/                      |
+| Brad Traversy      | Mern Stack Front To Back                          | https://www.udemy.com/mern-stack-front-to-back/      |
+
+### Educational Reads
+
+| Name                                    | Link ↘️                                                                          |
+| ----------------------------------------| -------------------------------------------------------------------------------- |
+| 3 Easy Ways to Write Cleaner Unit Tests | https://blog.usejournal.com/3-easy-ways-to-write-cleaner-unit-tests-2ec04ca6b9df |
+| The magic of this Keyword               | https://medium.com/@js_tut/the-magic-of-this-keyword-2ed897d6033b                |
+| How to scale RESTFul API's              | https://blog.usejournal.com/more-principles-of-rest-ee0b614641bf                 |
+
 
 ### Github Badges
 
