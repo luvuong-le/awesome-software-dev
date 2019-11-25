@@ -84,6 +84,7 @@
 | Flatpickr         | Lightweight date and time picker                                                                  | https://flatpickr.js.org                            |
 | Nuxt JS           | Framework for creating Vue.js applications with server side rendering, static generation and more | https://nuxtjs.org/                                 |
 | VuePress          | Static Site Generator powered with Vue JS                                                         | https://vuepress.vuejs.org/                         |
+| Gatsby JS         | Static Site Generator powered with React                                                          | https://www.gatsbyjs.org/                           |
 | Google Maps React | Google Maps API & React Integration                                                               | https://github.com/fullstackreact/google-maps-react |
 | Johnny-Five       | Javascript Robotics & IoT Platform                                                                | http://johnny-five.io/                              |
 | Yup               | Javascript Object Schema Validator and Object Parser                                              | https://github.com/jquense/yup                      |
@@ -111,7 +112,7 @@
 | Pixabay      | More free images                 | https://pixabay.com/en/ |
 | StockSnap    | High resolution free imgs        | https://stocksnap.io/   |
 | Lorem Picsum | Placeholder Images by Size       | https://picsum.photos/  |
-| Undraw       | Beauitful SVG open source images | https://undraw.co/      |
+| Undraw       | Free Beauitful SVG open source images | https://undraw.co/      |
 
 **Places to look for Free Icons**
 
@@ -173,6 +174,7 @@
 | Awwwards            | Best Web Design Trends                           | https://www.awwwards.com/                        |
 | Yellow Images 360   | PNG Images 360 (Paid)                            | https://yellowimages.com/yellow-images-360/      |
 | Daily UI            | Improve your UI skills daily                     | http://www.dailyui.co/                           |
+| Beautiful AI        | Create Slideshows                                | https://www.beautiful.ai/                        |
 
 ### Youtube Channels
 
