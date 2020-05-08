@@ -16,7 +16,8 @@
 - [📷 Visual Media Resources 📷](#visual-media-resources)
 - [🖥 Back End Resources 🖥](#back-end-resources)
 - [Infrastructure Resources](#infrastructure-resources)
-- [🖌 Design Resources 🖌](#design-resources)
+- [Diagram Resources](#diagram-resources)
+- [Design Resources 🎨](#design-resources)
 - [Speaker Resources 🎤 🔈 💬](#speaker-resources)
 - [⏯ Youtube Channels ⏯](#youtube-channels)
 - [Recommended Courses](#recommended-courses)
@@ -154,6 +155,15 @@
 |-----------|-----------------------------|----------------------|
 | Terraform | Infrastructure as code tool | https://terraform.io |
 
+### Diagram Resources
+
+| Name         | Description 📓                    | Link ↘️                      |
+|--------------|-----------------------------------|-----------------------------|
+| Draw IO      | Online Diagram Software           | https://app.diagrams.net/   |
+| Excalidraw   | Virtual Collaborative Whiteboard  | https://excalidraw.com/     |
+| AWWAPP       | Realtime Collaborative Whiteboard | https://awwapp.com/         |
+| Lucid Charts | Popular Diagram Software          | https://www.lucidchart.com/ |
+
 ### Design Resources
 
 | Name                | Description 📓                                   | Link ↘️                                           |
@@ -176,7 +186,6 @@
 | Awwwards            | Best Web Design Trends                           | https://www.awwwards.com/                        |
 | Yellow Images 360   | PNG Images 360 (Paid)                            | https://yellowimages.com/yellow-images-360/      |
 | Daily UI            | Improve your UI skills daily                     | http://www.dailyui.co/                           |
-| Beautiful AI        | Create Slideshows                                | https://www.beautiful.ai/                        |
 
 ### Speaker Resources
 
