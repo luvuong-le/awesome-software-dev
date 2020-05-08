@@ -63,6 +63,7 @@
 | Axis Praxis                         | Experiment with Variable Fonts                                                             | https://www.axis-praxis.org                             |
 | CSS Tricks                          | All things CSS                                                                             | https://css-tricks.com/                                 |
 | GreenSock Animation Platform (GSAP) | Ultra high-performance, professional-grade animation for the modern web                    | https://greensock.com/                                  |
+| CSS Gradient                        | Website for generating CSS Gradients                                                       | https://cssgradient.io/                                  |
 
 #### Javascript Resources
 
