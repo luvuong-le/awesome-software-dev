@@ -8,7 +8,7 @@
 
 ### Table of Contents
 
-- [📓 Text Editors 📓](#text-editors)
+- [Development Tools](#development-tools)
 - [Front-End Resources](#front-end-resources)
 - [HTML Resources](#html-resources)
 - [CSS Resources](#css-resources)
@@ -17,6 +17,7 @@
 - [🖥 Back End Resources 🖥](#back-end-resources)
 - [Infrastructure Resources](#infrastructure-resources)
 - [🖌 Design Resources 🖌](#design-resources)
+- [Speaker Resources 🎤 🔈 💬](#speaker-resources)
 - [⏯ Youtube Channels ⏯](#youtube-channels)
 - [Recommended Courses](#recommended-courses)
 - [📖 Articles/Blog Posts 📖](#educational-reads)
@@ -24,10 +25,10 @@
 - [🔗 Other Links 🔗](#other-links)
 - [🌟 Contributors 🌟](#contributors)
 
-### Code Editors
+### Development Tools
 
-| Name               | Description 📓                                                                         | Link ↘️                               |
-| ------------------ | -------------------------------------------------------------------------------------- | ------------------------------------- |
+| Name               | Description 📓                                                                         | Link ↘️                                |
+|--------------------|----------------------------------------------------------------------------------------|---------------------------------------|
 | Visual Studio Code | Lightweight but powerful code editor                                                   | https://code.visualstudio.com/        |
 | Brackets           | Code editor with focus on web development                                              | http://brackets.io)                   |
 | Sublime Text       | A sophisticated text editor for code, markup and prose                                 | https://www.sublimetext.com/          |
@@ -39,16 +40,16 @@
 
 #### HTML Resources
 
-| Name             | Description 📓                         | Link ↘️                                     |
-| ---------------- | -------------------------------------- | ------------------------------------------- |
+| Name             | Description 📓                         | Link ↘️                                      |
+|------------------|----------------------------------------|---------------------------------------------|
 | Emmet Cheatsheet | Useful for learning emmet shortcuts    | https://websitesetup.org/html5-cheat-sheet/ |
 | Can I Use        | Cross browser compatibility            | https://caniuse.com/)                       |
 | Google Fonts     | Wide range of usable fonts from google | https://fonts.google.com/                   |
 
 #### CSS Resources
 
-| Name                                | Description 📓                                                                             | Link ↘️                                                 |
-| ----------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------- |
+| Name                                | Description 📓                                                                             | Link ↘️                                                  |
+|-------------------------------------|--------------------------------------------------------------------------------------------|---------------------------------------------------------|
 | CSS Icons                           | Useful for learning emmet shortcuts                                                        | https://cssicon.space/#/animate                         |
 | Animate.CSS                         | Cross browser compatibility                                                                | https://daneden.github.io/animate.css/                  |
 | Flexbox Guide                       | A complete guide on using flexbox                                                          | https://css-tricks.com/snippets/css/a-guide-to-flexbox/ |
@@ -63,12 +64,12 @@
 | Axis Praxis                         | Experiment with Variable Fonts                                                             | https://www.axis-praxis.org                             |
 | CSS Tricks                          | All things CSS                                                                             | https://css-tricks.com/                                 |
 | GreenSock Animation Platform (GSAP) | Ultra high-performance, professional-grade animation for the modern web                    | https://greensock.com/                                  |
-| CSS Gradient                        | Website for generating CSS Gradients                                                       | https://cssgradient.io/                                  |
+| CSS Gradient                        | Website for generating CSS Gradients                                                       | https://cssgradient.io/                                 |
 
 #### Javascript Resources
 
-| Name              | Description 📓                                                                                    | Link ↘️                                             |
-| ----------------- | ------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| Name              | Description 📓                                                                                    | Link ↘️                                              |
+|-------------------|---------------------------------------------------------------------------------------------------|-----------------------------------------------------|
 | Annyang           | Speech recognition JS Library                                                                     | https://github.com/TalAter/annyang                  |
 | MixItUp           | Javascript Library for pagination                                                                 | https://www.kunkalabs.com/mixitup/                  |
 | Scroll Reveal     | Scroll reveal library                                                                             | https://scrollrevealjs.org/                         |
@@ -94,8 +95,8 @@
 
 #### Places to look for React Resources
 
-| Name             | Description 📓         | Link ↘️                            |
-| ---------------- | ---------------------- | ---------------------------------- |
+| Name             | Description 📓         | Link ↘️                             |
+|------------------|------------------------|------------------------------------|
 | Material-UI      | Use for UI components  | https://material-ui.com/           |
 | React Bootstrap  | Use for UI components  | https://react-bootstrap.github.io/ |
 | Formik           | Form building in React | https://jaredpalmer.com/formik     |
@@ -105,20 +106,20 @@
 
 **Places to look for Free Photos | Videos**
 
-| Name         | Description 📓                   | Link ↘️                 |
-| ------------ | -------------------------------- | ----------------------- |
-| Pexels       | Free Stock Photos                | https://www.pexels.com  |
-| Unsplash     | High quality free images         | https://unsplash.com    |
-| Videovo      | Free Stock Videos                | https://www.videvo.net/ |
-| Pixabay      | More free images                 | https://pixabay.com/en/ |
-| StockSnap    | High resolution free imgs        | https://stocksnap.io/   |
-| Lorem Picsum | Placeholder Images by Size       | https://picsum.photos/  |
+| Name         | Description 📓                        | Link ↘️                  |
+|--------------|---------------------------------------|-------------------------|
+| Pexels       | Free Stock Photos                     | https://www.pexels.com  |
+| Unsplash     | High quality free images              | https://unsplash.com    |
+| Videovo      | Free Stock Videos                     | https://www.videvo.net/ |
+| Pixabay      | More free images                      | https://pixabay.com/en/ |
+| StockSnap    | High resolution free imgs             | https://stocksnap.io/   |
+| Lorem Picsum | Placeholder Images by Size            | https://picsum.photos/  |
 | Undraw       | Free Beauitful SVG open source images | https://undraw.co/      |
 
 **Places to look for Free Icons**
 
-| Name                  | Description 📓                  | Link ↘️                                                              |
-| --------------------- | ------------------------------- | -------------------------------------------------------------------- |
+| Name                  | Description 📓                  | Link ↘️                                                               |
+|-----------------------|---------------------------------|----------------------------------------------------------------------|
 | FlatIcon              | Free Vector Icons               | https://www.flaticon.com/                                            |
 | Font Awesome          | Font and icon toolkit           | https://fontawesome.com/                                             |
 | Linea Icons           | Free iconset by Dario Ferrando  | http://linea.io/                                                     |
@@ -138,8 +139,8 @@
 
 ### Back End Resources
 
-| Name      | Description 📓                                                           | Link ↘️                     |
-| --------- | ------------------------------------------------------------------------ | --------------------------- |
+| Name      | Description 📓                                                           | Link ↘️                      |
+|-----------|--------------------------------------------------------------------------|-----------------------------|
 | Postman   | API development environment                                              | https://www.getpostman.com/ |
 | NPM       | Search/Discover Node Modules                                             | https://www.npmjs.com/      |
 | PyPI      | Repository of software for Python                                        | https://pypi.org/           |
@@ -149,14 +150,14 @@
 
 ### Infrastructure Resources
 
-| Name      | Description 📓              | Link ↘️              |
-| --------- | --------------------------- | -------------------- |
+| Name      | Description 📓              | Link ↘️               |
+|-----------|-----------------------------|----------------------|
 | Terraform | Infrastructure as code tool | https://terraform.io |
 
 ### Design Resources
 
-| Name                | Description 📓                                   | Link ↘️                                          |
-| ------------------- | ------------------------------------------------ | ------------------------------------------------ |
+| Name                | Description 📓                                   | Link ↘️                                           |
+|---------------------|--------------------------------------------------|--------------------------------------------------|
 | Canva               | Create graphic designs online                    | https://www.canva.com                            |
 | Dribbble            | Inspiration for designers                        | https://dribbble.com/                            |
 | Behance             | Showcase and Look at other peoples creative work | https://www.behance.net/                         |
@@ -177,47 +178,56 @@
 | Daily UI            | Improve your UI skills daily                     | http://www.dailyui.co/                           |
 | Beautiful AI        | Create Slideshows                                | https://www.beautiful.ai/                        |
 
+### Speaker Resources
+
+| Name         | Description 📓             | Link ↘️                    |
+|--------------|----------------------------|---------------------------|
+| Beautiful AI | Create Slideshows          | https://www.beautiful.ai/ |
+| Slides       | Create Presentations       | https://slides.com/       |
+| Speaker Deck | Share presentations online | https://speakerdeck.com/  |
+| Ludus        | Ludus Slide Deck Creator   | https://ludus.one/        |
+
 ### Youtube Channels
 
-| Name                | Description 📓                                                   | Link ↘️                                                               |
-| ------------------- | ---------------------------------------------------------------- | -------------------------------------------------------------------- |
-| Traversy Media      | Web Development & Programming Tutorials                          | https://www.youtube.com/user/TechGuyWeb                              |
-| dcode               | Javascript Tutorials and More                                    | https://www.youtube.com/channel/UCjX0FtIZBBVD3YoCcxnDC4g             |
-| Academind           | Online Education                                                 | https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w             |
-| Fun Fun Function    | Advanced Javascript Concepts and Tutorials                       | https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q             |
-| LearnWebCode        | Learn HTML, CSS, JQuery and Wordpress development                | https://www.youtube.com/channel/UCHRp19HU7Y2LwfI0Ai6WAGQ             |
-| Lets Build That App | Swift Tutorials & Node JS and App Reviews                        | https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA             |
-| mmtuts              | Multimedia & Web Design & Development Tutorials                  | https://www.youtube.com/channel/UCzyuZJ8zZ-Lhfnz41DG5qLw             |
-| The Net Ninja       | Sharpen Your Web Skills                                          | https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg             |
-| Udemy Tech          | Programming Tutorials / Courses                                  | https://www.youtube.com/channel/UCU6e4MJtvlcX5DBLP1cq8hQ             |
-| whatsdev            | Wide range of programming tutorials                              | https://www.youtube.com/channel/UC0tRdbXVDbhaRvZPKsRgmxg             |
-| KevinPowell         | Weekly Web Development & Design (Tips Tricks &Tutorials)         | https://www.youtube.com/user/KepowOb                                 |
-| Layout Land         | Amazing CSS Knowledge                                            | https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag             |
-| Program With Erik   | Programming Tutorials with Frameworks                            | https://www.youtube.com/channel/UCshZ3rdoCLjDYuTR_RBubzw             |
-| DesignCourse        | Tutorials using Adobe XD, Photoshop and others                   | https://www.youtube.com/user/DesignCourse                            |
-| Coding Tech         | Frequent uploads of tech talks                                   | https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ             |
-| sentdex             | Python Programming tutorials, machine learning and data analysis | https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ             |
-| Derek Banas         | Tutorials based on user requests                                 | https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw             |
-| Dev Tips            | Weekly show to learn programming                                 | https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ             |
-| The Coding Train    | Programming tutorials and in-depth algorithm explanations        | https://www.youtube.com/user/shiffman                                |
-| The new Boston      | Programming tutorials in different languages and frameworks      | https://www.youtube.com/user/thenewboston                            |
-| freeCodeCamp        | Online courses, programming projects, and interview preparation  | https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/featured    |
-| LevelUp Tutorials   | Video tutorials by Scott Tolinski                                | https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg             |
-| Online Tutorials    | HTML, CSS and JavaScript Tutorials                               | https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog             |
-| Leafie Tutoring     | Online Tutoring                                                  | https://www.youtube.com/channel/UCiw8awF7g3QO36srPajIHJA             |
+| Name                | Description 📓                                                   | Link ↘️                                                            |
+|---------------------|------------------------------------------------------------------|-------------------------------------------------------------------|
+| Traversy Media      | Web Development & Programming Tutorials                          | https://www.youtube.com/user/TechGuyWeb                           |
+| dcode               | Javascript Tutorials and More                                    | https://www.youtube.com/channel/UCjX0FtIZBBVD3YoCcxnDC4g          |
+| Academind           | Online Education                                                 | https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w          |
+| Fun Fun Function    | Advanced Javascript Concepts and Tutorials                       | https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q          |
+| LearnWebCode        | Learn HTML, CSS, JQuery and Wordpress development                | https://www.youtube.com/channel/UCHRp19HU7Y2LwfI0Ai6WAGQ          |
+| Lets Build That App | Swift Tutorials & Node JS and App Reviews                        | https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA          |
+| mmtuts              | Multimedia & Web Design & Development Tutorials                  | https://www.youtube.com/channel/UCzyuZJ8zZ-Lhfnz41DG5qLw          |
+| The Net Ninja       | Sharpen Your Web Skills                                          | https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg          |
+| Udemy Tech          | Programming Tutorials / Courses                                  | https://www.youtube.com/channel/UCU6e4MJtvlcX5DBLP1cq8hQ          |
+| whatsdev            | Wide range of programming tutorials                              | https://www.youtube.com/channel/UC0tRdbXVDbhaRvZPKsRgmxg          |
+| KevinPowell         | Weekly Web Development & Design (Tips Tricks &Tutorials)         | https://www.youtube.com/user/KepowOb                              |
+| Layout Land         | Amazing CSS Knowledge                                            | https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag          |
+| Program With Erik   | Programming Tutorials with Frameworks                            | https://www.youtube.com/channel/UCshZ3rdoCLjDYuTR_RBubzw          |
+| DesignCourse        | Tutorials using Adobe XD, Photoshop and others                   | https://www.youtube.com/user/DesignCourse                         |
+| Coding Tech         | Frequent uploads of tech talks                                   | https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ          |
+| sentdex             | Python Programming tutorials, machine learning and data analysis | https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ          |
+| Derek Banas         | Tutorials based on user requests                                 | https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw          |
+| Dev Tips            | Weekly show to learn programming                                 | https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ          |
+| The Coding Train    | Programming tutorials and in-depth algorithm explanations        | https://www.youtube.com/user/shiffman                             |
+| The new Boston      | Programming tutorials in different languages and frameworks      | https://www.youtube.com/user/thenewboston                         |
+| freeCodeCamp        | Online courses, programming projects, and interview preparation  | https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/featured |
+| LevelUp Tutorials   | Video tutorials by Scott Tolinski                                | https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg          |
+| Online Tutorials    | HTML, CSS and JavaScript Tutorials                               | https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog          |
+| Leafie Tutoring     | Online Tutoring                                                  | https://www.youtube.com/channel/UCiw8awF7g3QO36srPajIHJA          |
 
 ### Recommended Courses
 
-| Teacher            | Course Name 📓                                    | Link ↘️                                              |
-| ------------------ | ------------------------------------------------- | ---------------------------------------------------- |
-| Andrew Mead        | The Complete Node.JS Developer Course             | https://www.udemy.com/the-complete-nodejs-developer-course-2/                      |
-| Brad Traversy      | React Front To Back                               | https://www.udemy.com/course/react-front-to-back/                      |
-| Brad Traversy      | Mern Stack Front To Back                          | https://www.udemy.com/mern-stack-front-to-back/      |
+| Teacher       | Course Name 📓                        | Link ↘️                                                        |
+|---------------|---------------------------------------|---------------------------------------------------------------|
+| Andrew Mead   | The Complete Node.JS Developer Course | https://www.udemy.com/the-complete-nodejs-developer-course-2/ |
+| Brad Traversy | React Front To Back                   | https://www.udemy.com/course/react-front-to-back/             |
+| Brad Traversy | Mern Stack Front To Back              | https://www.udemy.com/mern-stack-front-to-back/               |
 
 ### Educational Reads
 
-| Name                                    | Link ↘️                                                                          |
-| ----------------------------------------| -------------------------------------------------------------------------------- |
+| Name                                    | Link ↘️                                                                           |
+|-----------------------------------------|----------------------------------------------------------------------------------|
 | 3 Easy Ways to Write Cleaner Unit Tests | https://blog.usejournal.com/3-easy-ways-to-write-cleaner-unit-tests-2ec04ca6b9df |
 | The magic of this Keyword               | https://medium.com/@js_tut/the-magic-of-this-keyword-2ed897d6033b                |
 | How to scale RESTFul API's              | https://blog.usejournal.com/more-principles-of-rest-ee0b614641bf                 |
@@ -225,8 +235,8 @@
 
 ### Github Badges
 
-| Name               | Description 📓                                    | Link ↘️                                              |
-| ------------------ | ------------------------------------------------- | ---------------------------------------------------- |
+| Name               | Description 📓                                    | Link ↘️                                               |
+|--------------------|---------------------------------------------------|------------------------------------------------------|
 | Code Coverage      | Code Coverage                                     | https://coveralls.io/                                |
 | David DM           | Keep track of dependencies                        | https://david-dm.org                                 |
 | For the badge      | Extra badges for github repos                     | https://forthebadge.com                              |
@@ -235,8 +245,8 @@
 
 ### Other Links
 
-| Name           | Description 📓                                                                | Link ↘️                                         |
-| -------------- | ----------------------------------------------------------------------------- | ----------------------------------------------- |
+| Name           | Description 📓                                                                | Link ↘️                                          |
+|----------------|-------------------------------------------------------------------------------|-------------------------------------------------|
 | Stack Overflow | Every Developers Friend                                                       | https://stackoverflow.com/                      |
 | Sitepoint      | Large amounts of web development articles                                     | https://www.sitepoint.com/                      |
 | Awwapp         | Collaborative whiteboard                                                      | https://awwapp.com/                             |
@@ -244,14 +254,14 @@
 | CodeAcademy    | Learn different languages, responsive design, frameworks and much more online | https://www.codecademy.com/                     |
 | Codepen        | Front-End Development Playground and social environment to share works        | https://codepen.io/                             |
 | Scrimba        | Learn code through an interactive screencast                                  | https://scrimba.com/                            |
-| Cody House     | HTML, CSS, JS experiments                                                     | https://codyhouse.co/library                          |
-| Codrops        | Collection of articles, tutorials for web development and design              | https://tympanus.net/codrops/                         |
-| Waka Time      | Time tracking for programmers                                                 | https://wakatime.com/                            |
+| Cody House     | HTML, CSS, JS experiments                                                     | https://codyhouse.co/library                    |
+| Codrops        | Collection of articles, tutorials for web development and design              | https://tympanus.net/codrops/                   |
+| Waka Time      | Time tracking for programmers                                                 | https://wakatime.com/                           |
 
 ### Contributors
 
-| Name             | Description 📓                             | Link ↘️                                 |
-| ---------------- | ------------------------------------------ | --------------------------------------- |
+| Name             | Description 📓                             | Link ↘️                                  |
+|------------------|--------------------------------------------|-----------------------------------------|
 | Justen Phelps    | Full Stack developer from Los Angeles, CA  | https://www.justenphelps.com            |
 | Marcus Lindstedt | -                                          | https://github.com/BerimboloEnterprises |
 | Ahmed Ezzat      | Android Developer from Alexandria, Eg      | https://github.com/AhmedMaghawry        |
