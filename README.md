@@ -191,6 +191,7 @@
 
 | Name         | Description 📓             | Link ↘️                    |
 |--------------|----------------------------|---------------------------|
+| Google Slides| Create Presentations       | https://www.google.com.au/slides/about/ |
 | Beautiful AI | Create Slideshows          | https://www.beautiful.ai/ |
 | Slides       | Create Presentations       | https://slides.com/       |
 | Speaker Deck | Share presentations online | https://speakerdeck.com/  |
