@@ -115,7 +115,8 @@
 | Pixabay      | More free images                      | https://pixabay.com/en/ |
 | StockSnap    | High resolution free imgs             | https://stocksnap.io/   |
 | Lorem Picsum | Placeholder Images by Size            | https://picsum.photos/  |
-| Undraw       | Free Beauitful SVG open source images | https://undraw.co/      |
+| Undraw       | Free Beautiful SVG open source images | https://undraw.co/      |
+| Blush Design | Free Illustrations                    | https://blush.design/   |
 
 **Places to look for Free Icons**
 
