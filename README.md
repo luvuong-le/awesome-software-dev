@@ -186,6 +186,7 @@
 | Color Safe          | Create Web Accessible Color Palettes             | http://colorsafe.co/                             |
 | Awwwards            | Best Web Design Trends                           | https://www.awwwards.com/                        |
 | Yellow Images 360   | PNG Images 360 (Paid)                            | https://yellowimages.com/yellow-images-360/      |
+| Hum3D               | 3D models and Images (Paid)                      | https://hum3d.com/                               |
 | Daily UI            | Improve your UI skills daily                     | http://www.dailyui.co/                           |
 
 ### Speaker Resources
