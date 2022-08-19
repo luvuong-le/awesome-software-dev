@@ -269,6 +269,7 @@
 | Cody House     | HTML, CSS, JS experiments                                                     | https://codyhouse.co/library                    |
 | Codrops        | Collection of articles, tutorials for web development and design              | https://tympanus.net/codrops/                   |
 | Waka Time      | Time tracking for programmers                                                 | https://wakatime.com/                           |
+| Scaler Topics  | Free Resouces to HTML, CSS and JS tutorials                                   | https://www.scaler.com/topics/                  |
 
 ### Contributors
 
