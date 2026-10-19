@@ -36,6 +36,7 @@
 | Atom               | Modern code editor with many plugins                                                   | https://nodejs.org/en/                |
 | Android Studio     | An powerfull IDE for Developing Android Applications                                   | https://developer.android.com/studio/ |
 | Falcon C++         | Falcon C++ is a IDE that was developed to turn development of C++ applications easily. | http://falconcpp.sourceforge.net/     |
+| Glim | macOS file viewer and basic text editor with Markdown, diagram and Git diff previews | https://github.com/NeoPanic/Glim |
 
 ### Front End Resources
 
@@ -283,6 +284,7 @@
 | Ethan Rockwood   | Windows Administrator from Macomb, Il      | https://github.com/drockwood94          |
 | Linda Lai        | Web Developer from Melbourne, Australia    | https://github.com/linda-lai            |
 | Muhammed Essam   | Junior Data scientist from Egypt           | https://github.com/MuhammedKhamis       |
+| Neo | Glim maintainer | https://github.com/NeoPanic |
 
 ## License
 
